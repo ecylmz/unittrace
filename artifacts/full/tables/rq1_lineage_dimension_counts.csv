@@ -1,0 +1,5 @@
+distribution,lineages,projects,median_enabled_dimensions,median_ci_low,median_ci_high,iqr_low,iqr_high,minimum,maximum,cohort,observational_unit
+arch,351,219,5.0,5.0,7.0,5.0,26.5,4,78,C1X,lineage-distribution
+debian,410,232,5.0,5.0,6.0,5.0,12.0,3,75,C1X,lineage-distribution
+fedora,556,313,5.0,5.0,5.0,5.0,7.0,3,78,C1X,lineage-distribution
+ubuntu,525,302,5.0,5.0,6.0,5.0,9.0,4,78,C1X,lineage-distribution

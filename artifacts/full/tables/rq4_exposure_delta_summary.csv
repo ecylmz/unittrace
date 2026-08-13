@@ -1,0 +1,9 @@
+transition,distribution,lineages,projects,median_exposure_delta,ci_low,ci_high,iqr_low,iqr_high,decreased,unchanged,increased,cohort,construct
+U_P,arch,169,104,0.0,0.0,0.0,0.0,0.0,7,160,2,C3F,destination minus source exposure under pinned systemd policy
+U_P,debian,205,124,0.0,0.0,0.0,0.0,0.0,8,190,7,C3F,destination minus source exposure under pinned systemd policy
+U_P,fedora,302,178,0.0,0.0,0.0,0.0,0.0,9,288,5,C3F,destination minus source exposure under pinned systemd policy
+U_P,ubuntu,272,164,0.0,0.0,0.0,0.0,0.0,9,253,10,C3F,destination minus source exposure under pinned systemd policy
+P_E,arch,351,219,0.0,0.0,0.0,0.0,0.0,0,351,0,C1X,destination minus source exposure under pinned systemd policy
+P_E,debian,410,232,0.0,0.0,0.0,0.0,0.0,0,410,0,C1X,destination minus source exposure under pinned systemd policy
+P_E,fedora,556,313,0.0,0.0,0.0,0.0,0.0,0,556,0,C1X,destination minus source exposure under pinned systemd policy
+P_E,ubuntu,525,302,0.0,0.0,0.0,0.0,0.0,0,525,0,C1X,destination minus source exposure under pinned systemd policy

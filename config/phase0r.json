@@ -1,0 +1,49 @@
+{
+  "phase0_run_id": "phase0r-2026-08-09-v4.1",
+  "data_freeze_timestamp": "2026-08-09T00:00:00Z",
+  "architecture": "x86_64",
+  "pilot_size": 60,
+  "selection_namespace": "unittrace:v4.1:phase0r:pilot:2026-08-09",
+  "c3_useful_rule": "at_least_one_resolved_pinned_assessment_dimension",
+  "repositories": {
+    "debian": {
+      "release": "13.6 (trixie)",
+      "architecture": "amd64",
+      "family": "deb",
+      "base_url": "https://deb.debian.org/debian",
+      "suite": "stable",
+      "components": ["main", "contrib", "non-free-firmware", "non-free"]
+    },
+    "ubuntu": {
+      "release": "26.04 LTS (resolute)",
+      "architecture": "amd64",
+      "family": "deb",
+      "base_url": "https://archive.ubuntu.com/ubuntu",
+      "suite": "resolute",
+      "components": ["main", "restricted", "universe", "multiverse"]
+    },
+    "fedora": {
+      "release": "44",
+      "architecture": "x86_64",
+      "family": "rpm",
+      "repositories": [
+        "https://download.fedoraproject.org/pub/fedora/linux/releases/44/Everything/x86_64/os",
+        "https://download.fedoraproject.org/pub/fedora/linux/updates/44/Everything/x86_64"
+      ]
+    },
+    "arch": {
+      "release": "archive-2026-08-09",
+      "architecture": "x86_64",
+      "family": "pacman",
+      "base_url": "https://archive.archlinux.org/repos/2026/08/09",
+      "repositories": ["core", "extra", "multilib"]
+    }
+  },
+  "evaluator": {
+    "path": "/usr/bin/systemd-analyze",
+    "version": "systemd 259 (259.5-0ubuntu3)",
+    "sha256": "9b90a00e3c8d501054ddcb013ffbc7f44bc98e9c17a9f83211eccb9db1076bf7",
+    "policy": "config/security-policy.json"
+  }
+}
+

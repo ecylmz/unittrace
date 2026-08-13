@@ -1,0 +1,6477 @@
+[
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 108582,
+        "filename": "2ping-4.5.1-24.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/2ping-4.5.1-24.fc44.src.rpm",
+        "sha256": "f05af8a35b68cb249745e664f9570e0b81568865cc24d299b4b53ccc27d9e61e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "2ping",
+    "source_version": "2ping-4.5.1-24.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6486287,
+        "filename": "NetworkManager-1.56.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/NetworkManager-1.56.1-2.fc44.src.rpm",
+        "sha256": "9162975d950f0638da2df382650807fa58de8d4f9bf54f4631ffcfde9722f893"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "NetworkManager",
+    "source_version": "NetworkManager-1.56.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3043456,
+        "filename": "PackageKit-1.3.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/PackageKit-1.3.6-1.fc44.src.rpm",
+        "sha256": "3def7d7f082e7447b9627d4b4cad67ea927a0acb2469ce2d04d530f1b8987b75"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "PackageKit",
+    "source_version": "PackageKit-1.3.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 672609,
+        "filename": "accountsservice-23.13.9-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/accountsservice-23.13.9-16.fc44.src.rpm",
+        "sha256": "ba21353126e096bb178b6341d58b882ae5b016557e510a49b0ce73457baf9ad1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "accountsservice",
+    "source_version": "accountsservice-23.13.9-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 205449,
+        "filename": "acpid-2.0.34-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/acpid-2.0.34-16.fc44.src.rpm",
+        "sha256": "2443a4a12c081faf8d307d3e7113bbc2c4a796dcf344cacd1f356aab3113ecc9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "acpid",
+    "source_version": "acpid-2.0.34-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6813636,
+        "filename": "alertmanager-0.33.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/alertmanager-0.33.0-1.fc44.src.rpm",
+        "sha256": "bc5854827e6091849b70989fe112dd24c1ca21367a3e4fa1c8856b1c2eef7051"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "alertmanager",
+    "source_version": "alertmanager-0.33.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1718800,
+        "filename": "alsa-utils-1.2.16-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/alsa-utils-1.2.16-1.fc44.src.rpm",
+        "sha256": "1789c8aaea489be0ab480649696cf82a47ead496090b8ea651d34ea679b83c01"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "alsa-utils",
+    "source_version": "alsa-utils-1.2.16-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 951262,
+        "filename": "amavis-2.14.0-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/amavis-2.14.0-4.fc44.src.rpm",
+        "sha256": "382cf0fae51adf12eed9bb18d8dadf9ebcc65a9c36d6a1eccab9d2ef46141689"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "amavis",
+    "source_version": "amavis-2.14.0-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 215775,
+        "filename": "amavisd-milter-1.7.2-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/amavisd-milter-1.7.2-12.fc44.src.rpm",
+        "sha256": "a560acdd10c42970f465860bc1b6074f498ab474fc5992cbe222edcc3f476483"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "amavisd-milter",
+    "source_version": "amavisd-milter-1.7.2-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 58845,
+        "filename": "ampr-ripd-2.4.2-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ampr-ripd-2.4.2-4.fc44.src.rpm",
+        "sha256": "e79be3e2b7daebf5ef1808f3b626c3e6c96695175b6ddb581fb3bd1dcb2c7b4b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ampr-ripd",
+    "source_version": "ampr-ripd-2.4.2-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 53855,
+        "filename": "amprd-3.0.1-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/amprd-3.0.1-12.fc44.src.rpm",
+        "sha256": "5b1d9e54684ca5843d3225be07556d03e06f27a2831a12aae255878bcedb12f4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "amprd",
+    "source_version": "amprd-3.0.1-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1690391,
+        "filename": "anope-2.1.4-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/anope-2.1.4-6.fc44.src.rpm",
+        "sha256": "b16320d79cb93415cad7ac237362a49aaaf13ab9d2439aa92ae33047a15380c9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "anope",
+    "source_version": "anope-2.1.4-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 427959,
+        "filename": "apt-cacher-ng-3.7.5-2.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/apt-cacher-ng-3.7.5-2.fc43.src.rpm",
+        "sha256": "813cd149493712f8899d17cbdeb822bdddc808cc41c9f57029b8452fd82cb25f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "apt-cacher-ng",
+    "source_version": "apt-cacher-ng-3.7.5-2.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3327443,
+        "filename": "argus-3.0.8.2-30.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/argus-3.0.8.2-30.fc44.src.rpm",
+        "sha256": "ec1e1148997deb5f157f0990083c07b2fdb42b40c5679f32e28fab1a87be64db"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "argus",
+    "source_version": "argus-3.0.8.2-30.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1348897,
+        "filename": "arpwatch-3.9-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/arpwatch-3.9-12.fc44.src.rpm",
+        "sha256": "13a1a7796281f045fe1763032ca343e34f303bc4fbf7214c9301a4665835badc"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "arpwatch",
+    "source_version": "arpwatch-3.9-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 43301,
+        "filename": "asahi-scripts-20250713-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/asahi-scripts-20250713-7.fc44.src.rpm",
+        "sha256": "2f2576860c430261a5ea32dcd89e4a9fd11e8f954d020d766e1f80d5062d3254"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "asahi-scripts",
+    "source_version": "asahi-scripts-20250713-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 38409985,
+        "filename": "asterisk-18.26.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/asterisk-18.26.4-1.fc44.src.rpm",
+        "sha256": "63469ed3f8db100d8b2006dd563e0ac4779d11df1c2b2570507e1073254db205"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "asterisk",
+    "source_version": "asterisk-18.26.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 382888,
+        "filename": "atop-2.13.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/atop-2.13.0-1.fc44.src.rpm",
+        "sha256": "500d236d6b262111cc86b8a31652b73b7194caaeb313cafb8274c6a3913a454f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "atop",
+    "source_version": "atop-2.13.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 809382,
+        "filename": "audit-4.2.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/audit-4.2.1-1.fc44.src.rpm",
+        "sha256": "8288628c3ca0963d4b1b737702cb4e1ed0e55054c58776650ad8a19074d76527"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "audit",
+    "source_version": "audit-4.2.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 703385,
+        "filename": "authselect-1.7.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/authselect-1.7.1-1.fc44.src.rpm",
+        "sha256": "2934c5f39a9a14440c229a8c23531d9ea71f1d204dcbdcfd265e4349a6cf7848"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "authselect",
+    "source_version": "authselect-1.7.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 63588,
+        "filename": "autorandr-1.15-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/autorandr-1.15-5.fc44.src.rpm",
+        "sha256": "2ba79b8e0a14716176a6e8bbcc6748d62ca51bbc78d43f6de2c8e9b5ffbd2553"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "autorandr",
+    "source_version": "autorandr-1.15-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1162368,
+        "filename": "avahi-0.9~rc2-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/avahi-0.9~rc2-8.fc44.src.rpm",
+        "sha256": "b9d6daa0bf6ce1077e1de5a587900fd20666250475190be9d94a7b52ef1675f2"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "avahi",
+    "source_version": "avahi-0.9~rc2-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1116858,
+        "filename": "babeld-1.14-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/babeld-1.14-1.fc44.src.rpm",
+        "sha256": "61932a9bf98cd3204dcde017f6376bd5dd23193d2c392da1395ff5e749b8eec8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "babeld",
+    "source_version": "babeld-1.14-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6716981,
+        "filename": "bacula-15.0.3-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bacula-15.0.3-5.fc44.src.rpm",
+        "sha256": "39dbfc1cd5715aacc36a73d2125473b69b64fa07be527a7ea41620ef722f048f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bacula",
+    "source_version": "bacula-15.0.3-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 9626233,
+        "filename": "bcachefs-tools-1.38.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bcachefs-tools-1.38.6-1.fc44.src.rpm",
+        "sha256": "7b2f60cad6783548b427e71d3148cece71850c68d7db6ceab8ab2053f625fa46"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bcachefs-tools",
+    "source_version": "bcachefs-tools-1.38.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 111593,
+        "filename": "bdii-6.0.3-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bdii-6.0.3-7.fc44.src.rpm",
+        "sha256": "4440dfcffe97ecbb9791b7397d5df702d0900dc6ea3fe1b44636fc5b2ee41a10"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bdii",
+    "source_version": "bdii-6.0.3-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 191000,
+        "filename": "bees-0.10-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bees-0.10-6.fc44.src.rpm",
+        "sha256": "db19efac2b4f1209bb985377e70f49af3ffbaec0531a83b6a6b9bf1451e92d52"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bees",
+    "source_version": "bees-0.10-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5779092,
+        "filename": "bind-9.18.50-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bind-9.18.50-1.fc44.src.rpm",
+        "sha256": "4ee561f6543c9770929dc37ca828b5a3bbcd2d2f437fbe15fbe8df8c3e91df53"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bind",
+    "source_version": "bind-9.18.50-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5622775,
+        "filename": "bind9-next-9.21.22-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bind9-next-9.21.22-2.fc44.src.rpm",
+        "sha256": "8131be9c9865d99cad562b9cb3c966806f5c6adff72052a5fdc9a8bbcceea3f1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bind9-next",
+    "source_version": "bind9-next-9.21.22-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 569266,
+        "filename": "bitlbee-3.6-20.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bitlbee-3.6-20.fc44.src.rpm",
+        "sha256": "237c8590d1d3b7252351527a4df5dc9362feb7a71920f7be77cd726538cf5a8f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bitlbee",
+    "source_version": "bitlbee-3.6-20.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2231315,
+        "filename": "blueman-2.4.6-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/blueman-2.4.6-6.fc44.src.rpm",
+        "sha256": "48c33a68a9136b39b89c698d73a6ec33cb92dc739f92aa3d292ae25d1002f5d7"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "blueman",
+    "source_version": "blueman-2.4.6-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2417128,
+        "filename": "bluez-5.87-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bluez-5.87-3.fc44.src.rpm",
+        "sha256": "f5de8e2f370785a0ac9afc946c650b7b0f74d7d0b2c016856f051d7acd77de10"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bluez",
+    "source_version": "bluez-5.87-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 47403126,
+        "filename": "boinc-client-8.2.4-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/boinc-client-8.2.4-3.fc44.src.rpm",
+        "sha256": "511d6ae375f852f296b69ee0868e818675b519a12c5c6a9e29a09634a20f117b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "boinc-client",
+    "source_version": "boinc-client-8.2.4-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 283056,
+        "filename": "bolt-0.9.11-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bolt-0.9.11-1.fc44.src.rpm",
+        "sha256": "5e744a02741e626e2be32d3fc4cba7bbf108e2651a6df3cf5d78e157422f3a82"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bolt",
+    "source_version": "bolt-0.9.11-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 382826,
+        "filename": "booth-1.2-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/booth-1.2-8.fc44.src.rpm",
+        "sha256": "30bc27760989dcebb3192a00b6da6cbc16f2102efee87b8f7c97837b93368e59"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "booth",
+    "source_version": "booth-1.2-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1007938,
+        "filename": "borgmatic-2.1.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/borgmatic-2.1.6-1.fc44.src.rpm",
+        "sha256": "a51bee7d0c33a691914ab9b2549364a3b851b1e84bcec18b9caca645acce0939"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "borgmatic",
+    "source_version": "borgmatic-2.1.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2683537,
+        "filename": "bpfilter-0.6.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/bpfilter-0.6.0-5.fc44.src.rpm",
+        "sha256": "85484609add85f31112bb316c08ff380008bf50a87b6226c752e8e87ec453b9f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "bpfilter",
+    "source_version": "bpfilter-0.6.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3985548,
+        "filename": "brltty-6.8-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/brltty-6.8-8.fc44.src.rpm",
+        "sha256": "d1373cdd9f6ab1f3518150454ec03ab2602247884905d507e8191d940c52b0f5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "brltty",
+    "source_version": "brltty-6.8-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 133262,
+        "filename": "btrbk-0.32.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/btrbk-0.32.7-1.fc44.src.rpm",
+        "sha256": "b09cd3e7737ccdbd0ca28cb224fbc9acd81c07c8f320b115fbdadde1a0fd98b5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "btrbk",
+    "source_version": "btrbk-0.32.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 51877,
+        "filename": "btrfsd-0.2.2-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/btrfsd-0.2.2-6.fc44.src.rpm",
+        "sha256": "9a999367f8c13df0c32bd4b72a5e07d059d2cc3b238fde44b53253c7737e503c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "btrfsd",
+    "source_version": "btrfsd-0.2.2-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 44729,
+        "filename": "btrfsmaintenance-0.5.2-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/btrfsmaintenance-0.5.2-6.fc44.src.rpm",
+        "sha256": "6f8c1d56dda8f48f3267133c0ee2f85d953ad307ab161f68a815c6543de48531"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "btrfsmaintenance",
+    "source_version": "btrfsmaintenance-0.5.2-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3721235,
+        "filename": "buildbot-4.3.0-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/buildbot-4.3.0-7.fc44.src.rpm",
+        "sha256": "b9b52ecb0beaf4f80ebcd2a7d7c67b138b16a27f894ff6df23d190c9f65c6967"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "buildbot",
+    "source_version": "buildbot-4.3.0-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 402886,
+        "filename": "c-icap-0.6.3-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/c-icap-0.6.3-5.fc44.src.rpm",
+        "sha256": "f0edc8b7b0a1d86879d994f542ec5f83056561ffae88db481725a371ba96edf8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "c-icap",
+    "source_version": "c-icap-0.6.3-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 291470999,
+        "filename": "ceph-20.2.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ceph-20.2.3-1.fc44.src.rpm",
+        "sha256": "29a381219ce6c9b566be575331a951afbda5f8d913eda2b790ca8ee14f6c28c4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ceph",
+    "source_version": "ceph-20.2.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1112949,
+        "filename": "certmonger-0.79.21-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/certmonger-0.79.21-4.fc44.src.rpm",
+        "sha256": "07704751c55e6e736e0a92062f73b4e0dc052b8c318dd89b256f995c63abfc1c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "certmonger",
+    "source_version": "certmonger-0.79.21-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 764094,
+        "filename": "chrony-4.8-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/chrony-4.8-5.fc44.src.rpm",
+        "sha256": "348dd4213b309cf3b8f2ffe71a72a1c5ae97e6272cb00412353f732b5fa5d8ba"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "chrony",
+    "source_version": "chrony-4.8-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1896299,
+        "filename": "ckb-next-0.6.2-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ckb-next-0.6.2-5.fc44.src.rpm",
+        "sha256": "96d0112554b2a3a7084f3d1e521c59711bd04e11a242c95467ac9874a276506b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ckb-next",
+    "source_version": "ckb-next-0.6.2-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 143203167,
+        "filename": "clamav-1.4.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/clamav-1.4.5-1.fc44.src.rpm",
+        "sha256": "7e71b44bb9421e4977ff212ed5ad5930823a1fd49e30dfab8ec0e55cfe10ba7d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "clamav",
+    "source_version": "clamav-1.4.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 41398,
+        "filename": "clatd-2.1.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/clatd-2.1.0-5.fc44.src.rpm",
+        "sha256": "1ba5b954f08ece7c5da9dd61c7b29f2ec4683356d3d79f127a295b8e47bbda99"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "clatd",
+    "source_version": "clatd-2.1.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 109903,
+        "filename": "clevis-21-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/clevis-21-14.fc44.src.rpm",
+        "sha256": "aaaeb818d4de081074b61b48c006e61abdc2f7ab1cab7b88a51bf3310c655455"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "clevis",
+    "source_version": "clevis-21-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 55438786,
+        "filename": "cockpit-365-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cockpit-365-1.fc44.src.rpm",
+        "sha256": "a348501d7ac522cc9c9543378382748e37574c9e2787c5499c34112b0524bc6b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cockpit",
+    "source_version": "cockpit-365-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2008685,
+        "filename": "collectd-5.12.0-64.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/collectd-5.12.0-64.fc44.src.rpm",
+        "sha256": "84059e74c3ceeeeb76daad83ac839dd0244df8dbc3aa1490c0ee0186461f7a6b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "collectd",
+    "source_version": "collectd-5.12.0-64.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 854666,
+        "filename": "collectl-4.3.20.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/collectl-4.3.20.3-1.fc44.src.rpm",
+        "sha256": "443300c2f9213ac8d5a6d81e573eeafa67219308be272cc1e20d07f14fbbd1ac"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "collectl",
+    "source_version": "collectl-4.3.20.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1965883,
+        "filename": "colord-1.4.8-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/colord-1.4.8-4.fc44.src.rpm",
+        "sha256": "7984606f2e8666cbfea4599afb0dd9a44c14515c6d85918a7d5a328f0841b592"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "colord",
+    "source_version": "colord-1.4.8-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 12707156,
+        "filename": "condor-23.9.6-15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/condor-23.9.6-15.fc44.src.rpm",
+        "sha256": "0a1b2ada1d28a699defd95276e7e9ac8e4dc876eb06de3178ee4cbf8b34637a3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "condor",
+    "source_version": "condor-23.9.6-15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 494751,
+        "filename": "conntrack-tools-1.4.8-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/conntrack-tools-1.4.8-12.fc44.src.rpm",
+        "sha256": "608e527d4cac2a68263ed4ef8613a65508a52035359470005d90c36881df9b8c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "conntrack-tools",
+    "source_version": "conntrack-tools-1.4.8-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 392701,
+        "filename": "conserver-8.3.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/conserver-8.3.0-1.fc44.src.rpm",
+        "sha256": "1a8b5fab729814c1813e08ec1cfcaf491546023d9679fac0f06ae62278989bf8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "conserver",
+    "source_version": "conserver-8.3.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 30572,
+        "filename": "consolation-0.0.7-17.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/consolation-0.0.7-17.fc44.src.rpm",
+        "sha256": "901eae258c6ae6a1bfb4d27bfcb52e56454b7ad72d2ebb23ad151fe19708e3e1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "consolation",
+    "source_version": "consolation-0.0.7-17.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6764111,
+        "filename": "containernetworking-plugins-1.9.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/containernetworking-plugins-1.9.1-1.fc44.src.rpm",
+        "sha256": "92eee4cf77394ef105984ba2efc3ceb7084c907f3dd7cb7ad8f6cb7f60e5c1e8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "containernetworking-plugins",
+    "source_version": "containernetworking-plugins-1.9.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1233691,
+        "filename": "corosync-3.1.10-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/corosync-3.1.10-5.fc44.src.rpm",
+        "sha256": "3979843b1a5a85262c10bb3ac7f3f0ad30b8da8056cc1387d355669c09454bd3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "corosync",
+    "source_version": "corosync-3.1.10-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 573169,
+        "filename": "corosync-qdevice-3.0.4-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/corosync-qdevice-3.0.4-3.fc44.src.rpm",
+        "sha256": "ddbd83c9c26203c1acc1ac5b508f2f9a79680fd3e01cc91c89a41f1357cc9cec"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "corosync-qdevice",
+    "source_version": "corosync-qdevice-3.0.4-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 159606269,
+        "filename": "cosmic-greeter-1.5.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cosmic-greeter-1.5.0-1.fc44.src.rpm",
+        "sha256": "af498e39b4825e959065b93a8580172322fbdc9e8c37dcdb3c45fba19f101712"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cosmic-greeter",
+    "source_version": "cosmic-greeter-1.5.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "HTTP Error 404: Not Found",
+    "distribution": "fedora",
+    "files": [],
+    "source_kind": "fedora_srpm",
+    "source_name": "coturn",
+    "source_version": "coturn-4.15.0-1.fc44.src.rpm",
+    "status": "SOURCE_FETCH_FAILURE"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 20247512,
+        "filename": "cri-o-1.32.0-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cri-o-1.32.0-8.fc44.src.rpm",
+        "sha256": "e1f7ee2197ca8744c97d8c149a28c599578011e59f837caa7bed32e19dadabd3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cri-o",
+    "source_version": "cri-o-1.32.0-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 34197468,
+        "filename": "cri-o1.33-1.33.12-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cri-o1.33-1.33.12-1.fc44.src.rpm",
+        "sha256": "d2c9bdfcd687d9ebb7e9eec0e4a02e0b1f2d6833e7583907f55677433bb10a60"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cri-o1.33",
+    "source_version": "cri-o1.33-1.33.12-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 39560874,
+        "filename": "cri-o1.34-1.34.10-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cri-o1.34-1.34.10-1.fc44.src.rpm",
+        "sha256": "826a188c7faeb642a6ec1c2bb26f7fdd82e7adb4ed88620db72aecba5385bed6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cri-o1.34",
+    "source_version": "cri-o1.34-1.34.10-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 40182188,
+        "filename": "cri-o1.35-1.35.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cri-o1.35-1.35.5-1.fc44.src.rpm",
+        "sha256": "8b3d9d799a110ce0b88815a39555146eacfd0fcf96911d89e66162a965c4ae75"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cri-o1.35",
+    "source_version": "cri-o1.35-1.35.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 35177382,
+        "filename": "cri-o1.36-1.36.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cri-o1.36-1.36.2-1.fc44.src.rpm",
+        "sha256": "ce039c2d76a9b823d5770e9d4515513d0be26fa8bffe46e8810f0b9209dae68a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cri-o1.36",
+    "source_version": "cri-o1.36-1.36.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 325871,
+        "filename": "cronie-1.7.2-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cronie-1.7.2-16.fc44.src.rpm",
+        "sha256": "6bd1bf5705ddf8929e62545d67b7dcb5213ce57a2e8ec01edd8474cc0f0731a5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cronie",
+    "source_version": "cronie-1.7.2-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10216941,
+        "filename": "crossfire-1.71.0-35.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/crossfire-1.71.0-35.fc44.src.rpm",
+        "sha256": "4f8c09653e31ab9c7625e6934815d818ebffdb88884e78613d2c35ae3109671c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "crossfire",
+    "source_version": "crossfire-1.71.0-35.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8203395,
+        "filename": "cups-2.4.19-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cups-2.4.19-3.fc44.src.rpm",
+        "sha256": "b935ef267a89ce7d21b04fdb95913a959be1363cb7cbe9bab7e499bed739ec8b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cups",
+    "source_version": "cups-2.4.19-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 11558974,
+        "filename": "cyrus-imapd-3.12.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cyrus-imapd-3.12.2-1.fc44.src.rpm",
+        "sha256": "7dbf4f144002d7448bce36302f7f6e4dc636bcaafe3e064b69f1462887dc6a7e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cyrus-imapd",
+    "source_version": "cyrus-imapd-3.12.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4003333,
+        "filename": "cyrus-sasl-2.1.28-35.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/cyrus-sasl-2.1.28-35.fc44.src.rpm",
+        "sha256": "c6ad3ee9f3f13a16d4831f6aea5599311691af4305bd11bb7ac56b97942e6c57"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "cyrus-sasl",
+    "source_version": "cyrus-sasl-2.1.28-35.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3556954,
+        "filename": "dahdi-tools-2.11.1-39.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dahdi-tools-2.11.1-39.fc44.src.rpm",
+        "sha256": "7ce7aedd3d6b04765314a07d648d7ad49710a35851e67af271492b338d0ac522"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dahdi-tools",
+    "source_version": "dahdi-tools-2.11.1-39.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1399513,
+        "filename": "dante-1.4.4-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dante-1.4.4-10.fc44.src.rpm",
+        "sha256": "19d36b7de75e7c4d8b4ff39e9768ed31db448fe609675c9f017572ada0194d83"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dante",
+    "source_version": "dante-1.4.4-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 128583,
+        "filename": "darkstat-3.0.721-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/darkstat-3.0.721-13.fc44.src.rpm",
+        "sha256": "519100f66be74a4558946db71d6ae70a70ae7dcb9d5fe3967c97361857dfae6c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "darkstat",
+    "source_version": "darkstat-3.0.721-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1218835,
+        "filename": "dbus-1.16.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dbus-1.16.2-1.fc44.src.rpm",
+        "sha256": "427db36b938e69e01e526294cdc818b2e2ef432254c47d13717f074bd7b716ed"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dbus",
+    "source_version": "dbus-1.16.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 305779,
+        "filename": "dbus-broker-37-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dbus-broker-37-8.fc44.src.rpm",
+        "sha256": "26ea6007ce637b5b5d279da7a86e505fce16c6dc5ea173dccd9acf55326d4eab"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dbus-broker",
+    "source_version": "dbus-broker-37-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 204785,
+        "filename": "ddccontrol-1.0.3-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ddccontrol-1.0.3-7.fc44.src.rpm",
+        "sha256": "edb8e363e1c7bf392a105d1f920fcc5b2a79846c2fd7b54f2f996bc303d8880b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ddccontrol",
+    "source_version": "ddccontrol-1.0.3-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 335260,
+        "filename": "ddclient-4.0.0-5.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ddclient-4.0.0-5.fc43.src.rpm",
+        "sha256": "56f69c34f6202dec79e8f4e35d2869d7dd974bf864e6574944a79338e50b12b1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ddclient",
+    "source_version": "ddclient-4.0.0-5.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 20622747,
+        "filename": "deepin-api-6.0.34-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/deepin-api-6.0.34-2.fc44.src.rpm",
+        "sha256": "b1e1c632f66f29c7795af7f1dd7269d29a4e001f46fc05180007ed2b23eb2471"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "deepin-api",
+    "source_version": "deepin-api-6.0.34-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1057109,
+        "filename": "deepin-pw-check-6.0.6-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/deepin-pw-check-6.0.6-5.fc44.src.rpm",
+        "sha256": "23aacd56c0ef78375731060d1b77944c062ec23fdf0eca41b9fe96345f9a0e0c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "deepin-pw-check",
+    "source_version": "deepin-pw-check-6.0.6-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5034172,
+        "filename": "deepin-system-monitor-6.5.37-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/deepin-system-monitor-6.5.37-3.fc44.src.rpm",
+        "sha256": "e1156aa4c787ce51a0295fc97bef273b339f07e9b2865f644053df56669949e8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "deepin-system-monitor",
+    "source_version": "deepin-system-monitor-6.5.37-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1932177,
+        "filename": "deluge-2.2.0-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/deluge-2.2.0-7.fc44.src.rpm",
+        "sha256": "d4e1da9c3bef37f875d8a8a8419bae5dfd05b17fa695afeb6b04fbeeb8b46f7d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "deluge",
+    "source_version": "deluge-2.2.0-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 770977,
+        "filename": "device-mapper-multipath-0.13.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/device-mapper-multipath-0.13.1-1.fc44.src.rpm",
+        "sha256": "ac15f0ed0b560e34a7bbf8b9118add058382a54fc3621e782c657f869bc91ead"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "device-mapper-multipath",
+    "source_version": "device-mapper-multipath-0.13.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10307132,
+        "filename": "dhcp-4.4.3-26.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dhcp-4.4.3-26.fc44.src.rpm",
+        "sha256": "f6b379ce3d2b9cf221f94b9c5bf028733223ea2729f269bafa8199a46ae2e247"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dhcp",
+    "source_version": "dhcp-4.4.3-26.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 307470,
+        "filename": "dhcpcd-10.3.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dhcpcd-10.3.2-1.fc44.src.rpm",
+        "sha256": "2255594d426b468c79252ea1fe148ef3e6417df5d348e574fb05c460e98e2986"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dhcpcd",
+    "source_version": "dhcpcd-10.3.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 20012754,
+        "filename": "direwolf-1.8.1-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/direwolf-1.8.1-4.fc44.src.rpm",
+        "sha256": "0368d17bef59138da0db6354ab27cfb159e91e91aea8b1cc1606b58d080c4b9d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "direwolf",
+    "source_version": "direwolf-1.8.1-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1036099,
+        "filename": "distcc-3.4-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/distcc-3.4-14.fc44.src.rpm",
+        "sha256": "84a846539a86ce3c06a4643ac974f17383621853948157a6a168faa1635f56c0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "distcc",
+    "source_version": "distcc-3.4-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 171471,
+        "filename": "dlm-4.3.0-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dlm-4.3.0-8.fc44.src.rpm",
+        "sha256": "8ebdba50c0db94732cb7d02753a00c318288d825e54a3bab9ecf3c9013e22bc4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dlm",
+    "source_version": "dlm-4.3.0-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1000522,
+        "filename": "dlt-daemon-2.18.10-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dlt-daemon-2.18.10-8.fc44.src.rpm",
+        "sha256": "4cac22544ab04e7ed750d9625a00faf5e0715b0917c7d2c2df079fb17617190b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dlt-daemon",
+    "source_version": "dlt-daemon-2.18.10-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 647432,
+        "filename": "dnf-plugins-core-4.10.1-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dnf-plugins-core-4.10.1-9.fc44.src.rpm",
+        "sha256": "edaa13ddfe7e9a0ed65aec1cacf0ee3bac0c91f312d35c10aaf7b0f68d2140b9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dnf-plugins-core",
+    "source_version": "dnf-plugins-core-4.10.1-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2587413,
+        "filename": "dnf5-5.4.2.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dnf5-5.4.2.1-1.fc44.src.rpm",
+        "sha256": "63e6555c7184c15c7e265ab8748fbfb9cac89c0a750454ab80e1986829d7f41a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dnf5",
+    "source_version": "dnf5-5.4.2.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2334565,
+        "filename": "dnsdist-2.0.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dnsdist-2.0.7-1.fc44.src.rpm",
+        "sha256": "fea3c41e9c2258e80853f54d788270e87405d0b1a4bde60368f2dbeb527a8549"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dnsdist",
+    "source_version": "dnsdist-2.0.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 581526,
+        "filename": "dnssec-trigger-0.17-41.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dnssec-trigger-0.17-41.fc44.src.rpm",
+        "sha256": "def53ae905cc53df72f4b5c77af4a4b0122346bb414ee65db96d74eaab7e8afb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dnssec-trigger",
+    "source_version": "dnssec-trigger-0.17-41.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 696512,
+        "filename": "dracut-108-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dracut-108-7.fc44.src.rpm",
+        "sha256": "aa2bbc1caa52b0392ff69647044ef6e89312019d6e487a8b39ff4bab974b5680"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dracut",
+    "source_version": "dracut-108-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1348966,
+        "filename": "drbd-9.34.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/drbd-9.34.0-1.fc44.src.rpm",
+        "sha256": "4389425b3fe52ff94cf86536160b5695e415a93b54792d6c73538e6c7b39f6cd"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "drbd",
+    "source_version": "drbd-9.34.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2406121,
+        "filename": "dropbear-2025.89-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/dropbear-2025.89-3.fc44.src.rpm",
+        "sha256": "7d214b08dcb4fa2ea7ad259b1131f661403b0474865f204bb4c290da21481bac"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "dropbear",
+    "source_version": "dropbear-2025.89-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7738806,
+        "filename": "e2fsprogs-1.47.3-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/e2fsprogs-1.47.3-4.fc44.src.rpm",
+        "sha256": "c9fb7311f0e72d27d8afe99770f665d6a647d36d6e64f24f7eb74bb783d9ac49"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "e2fsprogs",
+    "source_version": "e2fsprogs-1.47.3-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 79606,
+        "filename": "earlyoom-1.9.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/earlyoom-1.9.0-2.fc44.src.rpm",
+        "sha256": "4f46a35fef06954d24c030bc90c33aaa6d7f30f96ead9ff88bd39ff61716e7ef"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "earlyoom",
+    "source_version": "earlyoom-1.9.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 324448,
+        "filename": "edac-utils-0.18-46.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/edac-utils-0.18-46.fc44.src.rpm",
+        "sha256": "77de0222e6703ba69bbb23545334b4eeef35ec76c30cafdcd466a0545d22afd0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "edac-utils",
+    "source_version": "edac-utils-0.18-46.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 109383,
+        "filename": "elementary-settings-daemon-8.3.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/elementary-settings-daemon-8.3.1-2.fc44.src.rpm",
+        "sha256": "4553ba51eddcc000136acf7d4e9340ce4217ab82a5c9f8436dd16379673694e6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "elementary-settings-daemon",
+    "source_version": "elementary-settings-daemon-8.3.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 31148,
+        "filename": "endlessh-1.1-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/endlessh-1.1-16.fc44.src.rpm",
+        "sha256": "c649f2cda29fa56238b16c6dce992316c97b15fec00778b3a0a1200e08aaa20f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "endlessh",
+    "source_version": "endlessh-1.1-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 62441246,
+        "filename": "erlang-26.2.5.21-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/erlang-26.2.5.21-5.fc44.src.rpm",
+        "sha256": "d7123a836dc9f7cb3b8d06839d027181b6850df8cc7070024d8c1da04cdb2933"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "erlang",
+    "source_version": "erlang-26.2.5.21-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4140137,
+        "filename": "etcd-3.5.13-1.fc41.src.rpm",
+        "path": "NOT_REDISTRIBUTED/etcd-3.5.13-1.fc41.src.rpm",
+        "sha256": "d59753262ff28959dea5d156910d7934e0fb22b47b1ad13e93ec542151581bef"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "etcd",
+    "source_version": "etcd-3.5.13-1.fc41.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 184519,
+        "filename": "etckeeper-1.18.22-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/etckeeper-1.18.22-7.fc44.src.rpm",
+        "sha256": "ea3ccbb40c2354a65af30715e552f38d9ae017d9d718790685bb5ba2c796fa55"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "etckeeper",
+    "source_version": "etckeeper-1.18.22-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2165780,
+        "filename": "exim-4.99.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/exim-4.99.5-1.fc44.src.rpm",
+        "sha256": "0637248cdc0b7bf06c3044ea20b70d347d41b236a7f2555f43b4327f0c653881"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "exim",
+    "source_version": "exim-4.99.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 685335,
+        "filename": "fail2ban-1.1.0-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fail2ban-1.1.0-16.fc44.src.rpm",
+        "sha256": "68c58f0052de7e402eb94790cdcfd65ceb6f38545c2b555bfb4c221ddc0d45a0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fail2ban",
+    "source_version": "fail2ban-1.1.0-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1161616,
+        "filename": "fapolicyd-2.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fapolicyd-2.0-1.fc44.src.rpm",
+        "sha256": "26a4ad2621d41c95d1d389418c23453688209e67778f4ae0368ed439012ce576"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fapolicyd",
+    "source_version": "fapolicyd-2.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 271016,
+        "filename": "fastd-23-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fastd-23-3.fc44.src.rpm",
+        "sha256": "6c5f4642facd3e21e4d91b61f19669304d052bb83dc5989150b7c9182eef9ebf"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fastd",
+    "source_version": "fastd-23-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1553201,
+        "filename": "fastnetmon-1.2.9-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fastnetmon-1.2.9-1.fc44.src.rpm",
+        "sha256": "b39fb94ba8e4625ca4d74c1d046698ffee6bd0c22f483661ac56521771115530"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fastnetmon",
+    "source_version": "fastnetmon-1.2.9-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 39349,
+        "filename": "fcgiwrap-1.1.0-27.20181108git99c942c.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fcgiwrap-1.1.0-27.20181108git99c942c.fc44.src.rpm",
+        "sha256": "f527b578d5cd4f061b443e2f2d9e78a1c2546e2f7459ebc480460423b9676fe3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fcgiwrap",
+    "source_version": "fcgiwrap-1.1.0-27.20181108git99c942c.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1248025,
+        "filename": "fence-agents-4.17.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fence-agents-4.17.0-2.fc44.src.rpm",
+        "sha256": "0e864b4bff2a8daf0619e1505cb18df8a36922664ca6de1825398b8eb5fe7869"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fence-agents",
+    "source_version": "fence-agents-4.17.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 338236379,
+        "filename": "festival-2.5.0-29.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/festival-2.5.0-29.fc44.src.rpm",
+        "sha256": "a335331db33305f0f08ca5a84032523616b0b0312486f262286d0d6815c2d9c5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "festival",
+    "source_version": "festival-2.5.0-29.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 71506,
+        "filename": "fetch-crl-3.0.23-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fetch-crl-3.0.23-7.fc44.src.rpm",
+        "sha256": "c9590e3d9fb627a2be7b5cd629751c4a0c01030a6fb5b55be8b4d2228e3478ba"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fetch-crl",
+    "source_version": "fetch-crl-3.0.23-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1517617,
+        "filename": "firewalld-2.4.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/firewalld-2.4.4-1.fc44.src.rpm",
+        "sha256": "bb4e8e47fb6da7aa2795657ff6290b9766cd2d0556e2e6be041b3f55d0bd7221"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "firewalld",
+    "source_version": "firewalld-2.4.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1401447,
+        "filename": "flatpak-1.18.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/flatpak-1.18.0-1.fc44.src.rpm",
+        "sha256": "d518264b21fde939a30a6efcbf9b26f3cbc256dfa1d2f2267e21d1c276e74c0b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "flatpak",
+    "source_version": "flatpak-1.18.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 155834,
+        "filename": "foomuuri-0.33-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/foomuuri-0.33-2.fc44.src.rpm",
+        "sha256": "2c3d31f7f7efba8a826905c396bc553cfc014233679db0a68eed2e91bce0d0c6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "foomuuri",
+    "source_version": "foomuuri-0.33-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 47460948,
+        "filename": "forgejo-14.0.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/forgejo-14.0.4-1.fc44.src.rpm",
+        "sha256": "cb70de452d8ae27453520c936f4c35256785e632482a8f432415a2e0bc9b916f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "forgejo",
+    "source_version": "forgejo-14.0.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6382253,
+        "filename": "forgejo-runner-12.13.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/forgejo-runner-12.13.2-1.fc44.src.rpm",
+        "sha256": "7e272b47d0f3db2a33abb6e0bdd7bfcaa205a55df3584b95c99e45e788193830"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "forgejo-runner",
+    "source_version": "forgejo-runner-12.13.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 708822,
+        "filename": "fprintd-1.94.5-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fprintd-1.94.5-5.fc44.src.rpm",
+        "sha256": "886d192ad57e52d3f953e86d78ba72b389bc09d433d6ff999421542ea381f292"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fprintd",
+    "source_version": "fprintd-1.94.5-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 41839048,
+        "filename": "freeipa-4.13.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/freeipa-4.13.2-1.fc44.src.rpm",
+        "sha256": "957bdb6abc5b5b0ff649fd12a3d01ecc9bce004a54b30c34876f6e9cfd6fc6e4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "freeipa",
+    "source_version": "freeipa-4.13.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 160968,
+        "filename": "freeipa-healthcheck-0.19-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/freeipa-healthcheck-0.19-4.fc44.src.rpm",
+        "sha256": "015f468e39bed2e5eb78f4613b131614c2ff0ddee538fd12f5d9e835b32cbe28"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "freeipa-healthcheck",
+    "source_version": "freeipa-healthcheck-0.19-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3486305,
+        "filename": "freeipmi-1.6.15-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/freeipmi-1.6.15-5.fc44.src.rpm",
+        "sha256": "dcc00e92b2117ad3a84a27f3362577bfc636f6378d6cf7ce9b77e5136fa1ba87"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "freeipmi",
+    "source_version": "freeipmi-1.6.15-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3855821,
+        "filename": "freeradius-3.2.8-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/freeradius-3.2.8-3.fc44.src.rpm",
+        "sha256": "4b789f0cfed576eb5c866b246d4d3dd626a83a58eaba32927db3e429ac4a2d5f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "freeradius",
+    "source_version": "freeradius-3.2.8-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 11819482,
+        "filename": "frr-10.6.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/frr-10.6.1-1.fc44.src.rpm",
+        "sha256": "04e789a7ba2314d162814eda5083b9d7cd0029b84f7047710f875a744d1d37fa"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "frr",
+    "source_version": "frr-10.6.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2759253,
+        "filename": "fusioninventory-agent-2.6-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fusioninventory-agent-2.6-16.fc44.src.rpm",
+        "sha256": "b89f3239356f3858e899c2201250abfda73e626cc0af159985051a2bfe5d2f7d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fusioninventory-agent",
+    "source_version": "fusioninventory-agent-2.6-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1843159,
+        "filename": "fwknop-2.6.11-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fwknop-2.6.11-6.fc44.src.rpm",
+        "sha256": "7087ecc42c55b84040612dac8d0279176a02328edc0a97219d15674b885d3d6b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fwknop",
+    "source_version": "fwknop-2.6.11-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5119941,
+        "filename": "fwupd-2.1.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/fwupd-2.1.7-1.fc44.src.rpm",
+        "sha256": "cba69e6af639207d7357a90e27a3b4fddb3972e9fb5aa916ff6159530e15620a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "fwupd",
+    "source_version": "fwupd-2.1.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3138015,
+        "filename": "gammu-1.42.0-21.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gammu-1.42.0-21.fc44.src.rpm",
+        "sha256": "e46e22da907a6faf5b855738b41e5c1be333976d2f60fde5b5b7921b8f01acb4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gammu",
+    "source_version": "gammu-1.42.0-21.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1043617,
+        "filename": "gdm-50.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gdm-50.2-1.fc44.src.rpm",
+        "sha256": "5cd0b2eb45d58debc650fde50558296ba7093f9c4af165d3de333331d2c288df"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gdm",
+    "source_version": "gdm-50.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10090288,
+        "filename": "gerbera-3.2.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gerbera-3.2.1-1.fc44.src.rpm",
+        "sha256": "7e3f42048b367ccb098f70aad0801c1ec2fa22a78bfe4b3542920f4153a5d822"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gerbera",
+    "source_version": "gerbera-3.2.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8260583,
+        "filename": "git-2.55.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/git-2.55.0-1.fc44.src.rpm",
+        "sha256": "0442f50bb2b7249c40d966d300dea9566bd5a16f75360d25f01f31b810aa16e9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "git",
+    "source_version": "git-2.55.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 824814,
+        "filename": "gkrellm-2.4.0-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gkrellm-2.4.0-6.fc44.src.rpm",
+        "sha256": "820ee1f431426b50214cfb6117976f3bf1c00e2387fe894b049e999a0d167083"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gkrellm",
+    "source_version": "gkrellm-2.4.0-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "HTTP Error 404: Not Found",
+    "distribution": "fedora",
+    "files": [],
+    "source_kind": "fedora_srpm",
+    "source_name": "glances",
+    "source_version": "glances-4.5.5-1.fc44.src.rpm",
+    "status": "SOURCE_FETCH_FAILURE"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 382518,
+        "filename": "globus-gatekeeper-11.4-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/globus-gatekeeper-11.4-11.fc44.src.rpm",
+        "sha256": "ab9593d673d67bfff2e95d4f6507060fdd09139a397b8be4579a01b10cb4b4d0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "globus-gatekeeper",
+    "source_version": "globus-gatekeeper-11.4-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 714790,
+        "filename": "globus-gridftp-server-13.28-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/globus-gridftp-server-13.28-2.fc44.src.rpm",
+        "sha256": "cc13cb19095451fe81a5af41a780c75ada78fc3e0cc093bb6d48819f9a9ba83b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "globus-gridftp-server",
+    "source_version": "globus-gridftp-server-13.28-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 430969,
+        "filename": "globus-scheduler-event-generator-6.6-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/globus-scheduler-event-generator-6.6-2.fc44.src.rpm",
+        "sha256": "2bbd68a619451663b7d7cc6e60a544116bacf91cf9de6e3f5a9c058c5664df37"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "globus-scheduler-event-generator",
+    "source_version": "globus-scheduler-event-generator-6.6-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 445940,
+        "filename": "gnome-remote-desktop-50.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gnome-remote-desktop-50.2-1.fc44.src.rpm",
+        "sha256": "ceb36899ad31d18dabb850f761949defb08503ed5e20abf21468b9b725602d0c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gnome-remote-desktop",
+    "source_version": "gnome-remote-desktop-50.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7160034,
+        "filename": "golang-github-prometheus-alertmanager-0.28.1-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/golang-github-prometheus-alertmanager-0.28.1-4.fc44.src.rpm",
+        "sha256": "c6f08751cdcd4a91313c67ff45a0ab83ea5584b3d6e38d4abf86139475e1489a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "golang-github-prometheus-alertmanager",
+    "source_version": "golang-github-prometheus-alertmanager-0.28.1-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 532314,
+        "filename": "golang-github-schollz-croc-9.6.4-7.fc41.src.rpm",
+        "path": "NOT_REDISTRIBUTED/golang-github-schollz-croc-9.6.4-7.fc41.src.rpm",
+        "sha256": "b448a15054b9457dcaa15477ebd490935bde2d0721f3bc20cd0e9432396f675c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "golang-github-schollz-croc",
+    "source_version": "golang-github-schollz-croc-9.6.4-7.fc41.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3749384,
+        "filename": "google-guest-agent-20250821.00-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/google-guest-agent-20250821.00-6.fc44.src.rpm",
+        "sha256": "4670e4e1c1586e14b2dcf7960c30e7e1f2391133e2da98fbbc29d75385b8b1dc"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "google-guest-agent",
+    "source_version": "google-guest-agent-20250821.00-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 40975989,
+        "filename": "google-osconfig-agent-20260717.00-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/google-osconfig-agent-20260717.00-1.fc44.src.rpm",
+        "sha256": "d9e96fea1ab06701b03547f815e52632c5bf6a95e5682290717de2fdf8d1064e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "google-osconfig-agent",
+    "source_version": "google-osconfig-agent-20260717.00-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 255295,
+        "filename": "gpm-1.20.7-53.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gpm-1.20.7-53.fc44.src.rpm",
+        "sha256": "543fd16927c0c4f9718cdca27f4f20ed6b5139b41dc0307c9d8a9eeaef019c72"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gpm",
+    "source_version": "gpm-1.20.7-53.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 56310,
+        "filename": "group-service-1.4.0-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/group-service-1.4.0-11.fc44.src.rpm",
+        "sha256": "2682f6a960f52650c69ccb21bb6b1484f06949576f50ce9d8458d0075608162c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "group-service",
+    "source_version": "group-service-1.4.0-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 16267975,
+        "filename": "grub2-2.12-60.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/grub2-2.12-60.fc44.src.rpm",
+        "sha256": "1c8b374e5a4cf4bc60000763d48cf73e0dddc2f3df0a450c3b894d0e6629d63c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "grub2",
+    "source_version": "grub2-2.12-60.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2392204,
+        "filename": "gsi-openssh-10.2p1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gsi-openssh-10.2p1-3.fc44.src.rpm",
+        "sha256": "e0cc8dc1007171f48b98e1c2a5e83e442d598454e0189e38cc6e328eddce10a6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gsi-openssh",
+    "source_version": "gsi-openssh-10.2p1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 635809,
+        "filename": "gssproxy-0.9.2-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/gssproxy-0.9.2-10.fc44.src.rpm",
+        "sha256": "abca68c275b0df01231504cab30f930347246e2bf27073fd81075f1169da696e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "gssproxy",
+    "source_version": "gssproxy-0.9.2-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4818227,
+        "filename": "haproxy-3.0.23-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/haproxy-3.0.23-1.fc44.src.rpm",
+        "sha256": "b84140f6ab29ef56542d5fb57648afe9f8b690a95c8e77ef8154dcf28936c4af"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "haproxy",
+    "source_version": "haproxy-3.0.23-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8304142,
+        "filename": "hardinfo2-2.2.16-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/hardinfo2-2.2.16-2.fc44.src.rpm",
+        "sha256": "16af21b1d6b4431bb2b44b40810a022798e6ab5965327dd04503745e2302142a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "hardinfo2",
+    "source_version": "hardinfo2-2.2.16-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 550067,
+        "filename": "haveged-1.9.22-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/haveged-1.9.22-1.fc44.src.rpm",
+        "sha256": "21d9bd4689f350aa7786407f61bd875015a84a9b96cef4eec150af5a89128733"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "haveged",
+    "source_version": "haveged-1.9.22-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 351121,
+        "filename": "hddtemp-0.3-0.60.beta15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/hddtemp-0.3-0.60.beta15.fc44.src.rpm",
+        "sha256": "2ad417165ccf6f26b2587adc393642eca3c864d0e3f2f915dd4083fb85fac45d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "hddtemp",
+    "source_version": "hddtemp-0.3-0.60.beta15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 17009160,
+        "filename": "headscale-0.29.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/headscale-0.29.2-2.fc44.src.rpm",
+        "sha256": "318dea93f43c046ab499457326e9d7b10015d4e414115dffb8a4b8829408127d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "headscale",
+    "source_version": "headscale-0.29.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 392181,
+        "filename": "hitch-1.8.0-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/hitch-1.8.0-11.fc44.src.rpm",
+        "sha256": "d1c1464886351d8a52794a2555f20950a8a5197f99718f179d20d4430986c1e3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "hitch",
+    "source_version": "hitch-1.8.0-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2743512,
+        "filename": "hostapd-2.11-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/hostapd-2.11-4.fc44.src.rpm",
+        "sha256": "3f13e8b2311aa41b196d880636ccef138ffedb311dacf7a16f5e211a60ffeaa8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "hostapd",
+    "source_version": "hostapd-2.11-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8273456,
+        "filename": "httpd-2.4.68-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/httpd-2.4.68-1.fc44.src.rpm",
+        "sha256": "e088ba99448a6f7413aa079498ef496f0e12d1d2bc6df2bf9b8ad1d7a8d52bca"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "httpd",
+    "source_version": "httpd-2.4.68-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 77341,
+        "filename": "hyperv-daemons-6.10-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/hyperv-daemons-6.10-3.fc44.src.rpm",
+        "sha256": "2cd8d5bc2de3ba42aec32b7b004e377bbecda61b0685efc6dc527a888f551e91"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "hyperv-daemons",
+    "source_version": "hyperv-daemons-6.10-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 84331,
+        "filename": "iio-sensor-proxy-3.8-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/iio-sensor-proxy-3.8-2.fc44.src.rpm",
+        "sha256": "f66f755305acf70e982432766b69b99e2002013a7587f44b2d4e232670aecd41"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "iio-sensor-proxy",
+    "source_version": "iio-sensor-proxy-3.8-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 363356,
+        "filename": "incron-0.5.12-29.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/incron-0.5.12-29.fc44.src.rpm",
+        "sha256": "4f7dc82b9b0901b052f0d600f1ba8be6db557b7966fc3bf6fbaef029db2dc965"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "incron",
+    "source_version": "incron-0.5.12-29.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 14061470,
+        "filename": "incus-6.23-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/incus-6.23-3.fc44.src.rpm",
+        "sha256": "84154aeab4fb0844e80075afe48577a4eb66c60f5422a70243380cc7c2a3cc7b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "incus",
+    "source_version": "incus-6.23-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2952080,
+        "filename": "inn-2.7.3-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/inn-2.7.3-5.fc44.src.rpm",
+        "sha256": "fff196c2e7060ea028efb8e85e57617e4c9cdbdebbef6a49ef8bee1936dbbd86"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "inn",
+    "source_version": "inn-2.7.3-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 759519,
+        "filename": "input-remapper-2.2.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/input-remapper-2.2.1-1.fc44.src.rpm",
+        "sha256": "0eca9e3f30c38858306f2662a53a49fd44aad181b748b243cddfa622aae2b386"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "input-remapper",
+    "source_version": "input-remapper-2.2.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 92981,
+        "filename": "intel-lpmd-0.1.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/intel-lpmd-0.1.0-2.fc44.src.rpm",
+        "sha256": "4bdb158ed360164168cfc903d0c6565d3ac9e2a14207e04de92cae0f50a4fda0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "intel-lpmd",
+    "source_version": "intel-lpmd-0.1.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 55587,
+        "filename": "intel-undervolt-1.7-23.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/intel-undervolt-1.7-23.fc44.src.rpm",
+        "sha256": "55c6d534a4edaa2d9d06883f0f6235f3dff1618917fd768ce6394dc239036dd7"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "intel-undervolt",
+    "source_version": "intel-undervolt-1.7-23.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 134930,
+        "filename": "iodine-0.8.0-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/iodine-0.8.0-9.fc44.src.rpm",
+        "sha256": "a87343b13dfff2746621c997216925f243a2d3ffaaf5f846cd77da635903066a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "iodine",
+    "source_version": "iodine-0.8.0-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 171758,
+        "filename": "ipp-usb-0.9.34-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ipp-usb-0.9.34-2.fc44.src.rpm",
+        "sha256": "a613b216d6b7b926cb5c0ecc966b8adcde53d6a8e876571a34757b4484e2474e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ipp-usb",
+    "source_version": "ipp-usb-0.9.34-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 94313,
+        "filename": "irqbalance-1.9.5-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/irqbalance-1.9.5-2.fc44.src.rpm",
+        "sha256": "dd0e82f7916ed77cf35a6f6f738f6ef05803f235f29d4e1b9d25be7e873173b5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "irqbalance",
+    "source_version": "irqbalance-1.9.5-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 276863,
+        "filename": "isns-utils-0.103-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/isns-utils-0.103-4.fc44.src.rpm",
+        "sha256": "e79358256397dad523010876914b48a10cfddf829d6e6a896633c4fd771d6e75"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "isns-utils",
+    "source_version": "isns-utils-0.103-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1154547,
+        "filename": "iwd-3.12-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/iwd-3.12-1.fc44.src.rpm",
+        "sha256": "4e2ba5150bdfc662523e5a494f9ccf300ff0fd4e4eefb6ab56160ccbf8b7ab1d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "iwd",
+    "source_version": "iwd-3.12-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1601955,
+        "filename": "jabberd-2.6.1-34.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/jabberd-2.6.1-34.fc44.src.rpm",
+        "sha256": "9f44681281923935da6b9f90d32cacfa6d2bd8261d8bb38f48887654744ad749"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "jabberd",
+    "source_version": "jabberd-2.6.1-34.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6309512,
+        "filename": "janus-1.3.3-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/janus-1.3.3-6.fc44.src.rpm",
+        "sha256": "756aecd7c5e3ede64ae9b0f0fabaef913d3919d2275b6ea5668f7e96e560244c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "janus",
+    "source_version": "janus-1.3.3-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 63675,
+        "filename": "kafs-client-0.4-15.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/kafs-client-0.4-15.fc43.src.rpm",
+        "sha256": "b680ed054cba076196bec58edd0fe63ab964ad74c0393d9803a05639f8ed100b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "kafs-client",
+    "source_version": "kafs-client-0.4-15.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 16220482,
+        "filename": "kea-3.0.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/kea-3.0.3-1.fc44.src.rpm",
+        "sha256": "b681501349b0d26d079840f5887f127d7cc68b01e97cb5baa11741ad5719d35d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "kea",
+    "source_version": "kea-3.0.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1245371,
+        "filename": "keepalived-2.2.8-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/keepalived-2.2.8-10.fc44.src.rpm",
+        "sha256": "d0fb3fd92badd6f01eb2aef106faf6da53fcd37d3a25b02ed8ea6208e5946dd4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "keepalived",
+    "source_version": "keepalived-2.2.8-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 164999341,
+        "filename": "kernel-7.1.7-200.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/kernel-7.1.7-200.fc44.src.rpm",
+        "sha256": "e90371654c43a8343fdcf76fe3f5f6ce35643f24e06ce79751051a21a49f53d5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "kernel",
+    "source_version": "kernel-7.1.7-200.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 119762,
+        "filename": "kmonad-0.4.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/kmonad-0.4.4-1.fc44.src.rpm",
+        "sha256": "1e9e5a315a44d3c3750cee29adb9b4fe9f4f12bbb4eca2a50fa89d88347e845a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "kmonad",
+    "source_version": "kmonad-0.4.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1828598,
+        "filename": "kmscon-10.0.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/kmscon-10.0.1-1.fc44.src.rpm",
+        "sha256": "3aa41c6d020f3bffb8da33e07b7faa7cd71c62cafe83fef5b0fe0c0f39144e46"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "kmscon",
+    "source_version": "kmscon-10.0.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 58482,
+        "filename": "knock-0.8-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/knock-0.8-13.fc44.src.rpm",
+        "sha256": "ecc12cdea68ea532da5c68740157aafe607156457af08f166771e1e5ccf0195f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "knock",
+    "source_version": "knock-0.8-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1841034,
+        "filename": "knot-3.5.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/knot-3.5.5-1.fc44.src.rpm",
+        "sha256": "e63569ae6394453c67ae23a0aa7562b15587f1cab0f579c7c602760210dd2221"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "knot",
+    "source_version": "knot-3.5.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2001754,
+        "filename": "knot-resolver-5.7.6-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/knot-resolver-5.7.6-3.fc44.src.rpm",
+        "sha256": "f6fb48f5e9e4875b42b82fd48baed00111438139dd57e0f523a67544c25d2233"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "knot-resolver",
+    "source_version": "knot-resolver-5.7.6-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 23603,
+        "filename": "ksmtuned-0.1.0-18.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ksmtuned-0.1.0-18.fc44.src.rpm",
+        "sha256": "24670d244719e99707e7f3b92adfa9f946ebce7f059dbf5f5e3df6131f3b0c71"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ksmtuned",
+    "source_version": "ksmtuned-0.1.0-18.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 252015,
+        "filename": "ktls-utils-1.4.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ktls-utils-1.4.0-1.fc44.src.rpm",
+        "sha256": "9237a263d0a59bb8cdeb368e939c0ae7d7da886cba3abfa1a31753fe19c18540"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ktls-utils",
+    "source_version": "ktls-utils-1.4.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 167367,
+        "filename": "ledmon-1.1.0-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ledmon-1.1.0-4.fc44.src.rpm",
+        "sha256": "3dae3a88e89055462483209c684a4ca3ff389c5d55e5f62847c0a123313d3391"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ledmon",
+    "source_version": "ledmon-1.1.0-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 14962947,
+        "filename": "lemonldap-ng-2.23.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lemonldap-ng-2.23.2-1.fc44.src.rpm",
+        "sha256": "c97565cf2ae45ba4dacb6b94963bdcce7005ba9ee7372424a71f55fa03083dad"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lemonldap-ng",
+    "source_version": "lemonldap-ng-2.23.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10450075,
+        "filename": "libloc-0.9.19-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/libloc-0.9.19-1.fc44.src.rpm",
+        "sha256": "6567f1e3f14b228e8b7acd46ba35117e55fd818409ac3ee00d3fa50fbaef3d57"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "libloc",
+    "source_version": "libloc-0.9.19-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 318435,
+        "filename": "libratbag-0.18-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/libratbag-0.18-5.fc44.src.rpm",
+        "sha256": "06e457c4aa07ac38c7f6db3fcc5cd6210deb94048b8c5574b9209a3d3cae920d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "libratbag",
+    "source_version": "libratbag-0.18-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 13645187,
+        "filename": "libreswan-5.3.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/libreswan-5.3.2-2.fc44.src.rpm",
+        "sha256": "dfc67c72f1e71af913cd015f4112c751f6dcbdea314e81ecf6c51dcc1e90da52"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "libreswan",
+    "source_version": "libreswan-5.3.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10404958,
+        "filename": "libvirt-12.0.0-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/libvirt-12.0.0-3.fc44.src.rpm",
+        "sha256": "65f63babb6037a06f9dc8f86cd2bcba6214376e1d5cdac45baa4a753f12ba838"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "libvirt",
+    "source_version": "libvirt-12.0.0-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 72766,
+        "filename": "libvirt-dbus-1.4.1-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/libvirt-dbus-1.4.1-9.fc44.src.rpm",
+        "sha256": "c220a4f7f514c04f7234c0e6854f622fcf9237f33b524b5d9a97079b1da949c5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "libvirt-dbus",
+    "source_version": "libvirt-dbus-1.4.1-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1007251,
+        "filename": "lighttpd-1.4.85-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lighttpd-1.4.85-1.fc44.src.rpm",
+        "sha256": "06b936b8a9a5b14cd912bf931d979959e8d391925f8012d9ccc11f4bca503906"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lighttpd",
+    "source_version": "lighttpd-1.4.85-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 398871,
+        "filename": "linuxptp-4.4-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/linuxptp-4.4-10.fc44.src.rpm",
+        "sha256": "ea6be28fda2b8f976848b419f2614b21b90387c0c6f8ef8aaacf34572a81157c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "linuxptp",
+    "source_version": "linuxptp-4.4-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2681071,
+        "filename": "lirc-0.10.2-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lirc-0.10.2-5.fc44.src.rpm",
+        "sha256": "796797b611466e6c99f429a9ea5654a051ad5f543f3c288c7f8c882625c2ff31"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lirc",
+    "source_version": "lirc-0.10.2-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 112964,
+        "filename": "logiops-0.3.5-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/logiops-0.3.5-6.fc44.src.rpm",
+        "sha256": "b7f0bb8d36759b8641e5d06a8cfa66b22a85cdaf81f846d72f954f69c5a76342"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "logiops",
+    "source_version": "logiops-0.3.5-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 234917,
+        "filename": "logrotate-3.22.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/logrotate-3.22.0-5.fc44.src.rpm",
+        "sha256": "49974c9777b04ff5176d0cb7567d4e67743af7f6b67994b3f09101640a363fa3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "logrotate",
+    "source_version": "logrotate-3.22.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 38141,
+        "filename": "low-memory-monitor-2.1-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/low-memory-monitor-2.1-14.fc44.src.rpm",
+        "sha256": "51ca25a4f7971629eaef00809963c5853144ba56beb3bc57df2394af1a37ca35"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "low-memory-monitor",
+    "source_version": "low-memory-monitor-2.1-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 582432,
+        "filename": "lprint-1.3.1-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lprint-1.3.1-12.fc44.src.rpm",
+        "sha256": "745a446aa20ce43e0a67c15d537a37af88451a8ea0abf9eeaf126cbfc0e5fc90"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lprint",
+    "source_version": "lprint-1.3.1-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3295552,
+        "filename": "lttng-tools-2.14.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lttng-tools-2.14.0-5.fc44.src.rpm",
+        "sha256": "3b9355109d85c831af0bb64580cc086cd4a08f40897c25aa06a51e96a965dd68"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lttng-tools",
+    "source_version": "lttng-tools-2.14.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3031653,
+        "filename": "lvm2-2.03.38-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/lvm2-2.03.38-2.fc44.src.rpm",
+        "sha256": "b25ac56cd2cc6f8a6922cd77ca3e19781a5b113edde91411bb7a410e96a58adf"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "lvm2",
+    "source_version": "lvm2-2.03.38-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2182921,
+        "filename": "ly-1.4.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ly-1.4.0-2.fc44.src.rpm",
+        "sha256": "236443ae50da13f252db2f030c6a9907d29c270348444a8eb43487fd90c74643"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ly",
+    "source_version": "ly-1.4.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2340599,
+        "filename": "mailman3-3.3.10-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mailman3-3.3.10-3.fc44.src.rpm",
+        "sha256": "c9a36f89db3892d0bfad73607f50e6df352304510e28c73798f530b5f4d6e6fe"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mailman3",
+    "source_version": "mailman3-3.3.10-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 692453,
+        "filename": "malcontent-0.14.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/malcontent-0.14.0-1.fc44.src.rpm",
+        "sha256": "5b753d68fe7037698162e84a98728371e80be7e777e2503b5047e41c45dcbcab"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "malcontent",
+    "source_version": "malcontent-0.14.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 112856613,
+        "filename": "mariadb10.11-10.11.18-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mariadb10.11-10.11.18-2.fc44.src.rpm",
+        "sha256": "d9c5f7966d4f1617e2d841f27b4976d4ca3ce7c33dd6f483a9d1edab5b4dd579"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mariadb10.11",
+    "source_version": "mariadb10.11-10.11.18-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 116621437,
+        "filename": "mariadb11.8-11.8.8-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mariadb11.8-11.8.8-3.fc44.src.rpm",
+        "sha256": "d42903d83d98d2d942a542ce4196fca2111d02eef9c4558b9fdcc37baa05ecab"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mariadb11.8",
+    "source_version": "mariadb11.8-11.8.8-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 117756318,
+        "filename": "mariadb12.3-12.3.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mariadb12.3-12.3.2-2.fc44.src.rpm",
+        "sha256": "7015d2a0051ea1d89b69c9ee881ad52682bcc010f3290fc163605fdeeb97effe"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mariadb12.3",
+    "source_version": "mariadb12.3-12.3.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 9138321,
+        "filename": "matrix-synapse-1.137.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/matrix-synapse-1.137.0-2.fc44.src.rpm",
+        "sha256": "f195803fd651747da33c0bbf0d74d34c504379817ae5358a866d9c2400ae3cb9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "matrix-synapse",
+    "source_version": "matrix-synapse-1.137.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8318183,
+        "filename": "matterbridge-1.26.0-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/matterbridge-1.26.0-10.fc44.src.rpm",
+        "sha256": "c223eb6aba9902912db75e510dddc3d2e9d27ea8253cfb59dd94797a91d836dd"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "matterbridge",
+    "source_version": "matterbridge-1.26.0-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1173981,
+        "filename": "mgetty-1.2.1-27.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mgetty-1.2.1-27.fc44.src.rpm",
+        "sha256": "2d13648573573c3fb6bababa541a347f2b094e01a7d6adeb20d126bca06ffca4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mgetty",
+    "source_version": "mgetty-1.2.1-27.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 406093,
+        "filename": "milter-greylist-4.6.4-20.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/milter-greylist-4.6.4-20.fc44.src.rpm",
+        "sha256": "1c4fad66dfe66726d46bf3264b70319d5da46397f173cd674fea6881c485f4ef"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "milter-greylist",
+    "source_version": "milter-greylist-4.6.4-20.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 860222,
+        "filename": "minidlna-1.3.3-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/minidlna-1.3.3-16.fc44.src.rpm",
+        "sha256": "1357c3a24d277b014fff8ec364ef6157d1a597429ecaae2ead812e441ce6c68f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "minidlna",
+    "source_version": "minidlna-1.3.3-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 324851,
+        "filename": "miniupnpd-2.3.10-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/miniupnpd-2.3.10-1.fc44.src.rpm",
+        "sha256": "e3038c82bba1018afaed07ef30dfe3bcdd1247e032e34ed49ffed26d9aee2c70"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "miniupnpd",
+    "source_version": "miniupnpd-2.3.10-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1573624,
+        "filename": "monit-6.0.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/monit-6.0.0-1.fc44.src.rpm",
+        "sha256": "e6ee8467c4243222ba4dcd5ce6615827561819060b9e2a69284c86466efc218c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "monit",
+    "source_version": "monit-6.0.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 426221,
+        "filename": "monitorix-3.16.0-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/monitorix-3.16.0-4.fc44.src.rpm",
+        "sha256": "1ebf20a5de3dfe5a05ed63379bf931233b4f147249518ef04e1d3cf3f2a28b10"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "monitorix",
+    "source_version": "monitorix-3.16.0-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 490613,
+        "filename": "mopidy-4.0.0~a15-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mopidy-4.0.0~a15-1.fc44.src.rpm",
+        "sha256": "e34fa6e379ad702970950fb270b5f1b00893f37d18b3752432c51038070617f8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mopidy",
+    "source_version": "mopidy-4.0.0~a15-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2769739,
+        "filename": "mosquitto-2.1.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mosquitto-2.1.2-2.fc44.src.rpm",
+        "sha256": "55d36d157e11b1b03a0414062d162a5f111590a2cd755c68cb4ef31b482eeb7b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mosquitto",
+    "source_version": "mosquitto-2.1.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1067925,
+        "filename": "mpd-0.24.13-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mpd-0.24.13-1.fc44.src.rpm",
+        "sha256": "081a8b33a82ee5efe5186356cc3915f090bcf4dc454411485f615aba206bb8b4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mpd",
+    "source_version": "mpd-0.24.13-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 95669,
+        "filename": "mpdscribble-0.25-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mpdscribble-0.25-8.fc44.src.rpm",
+        "sha256": "2e80ca7098c42abb22234a6f464ea19b75ab19f4daf51df4c8ecd19ca7785a5f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mpdscribble",
+    "source_version": "mpdscribble-0.25-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1140735,
+        "filename": "mrtg-2.17.10-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mrtg-2.17.10-13.fc44.src.rpm",
+        "sha256": "9b60be8966a95aea20ff857599dbe323d48146220732959d6ca83e7e00fea99b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mrtg",
+    "source_version": "mrtg-2.17.10-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 9500190,
+        "filename": "mumble-1.4.287-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/mumble-1.4.287-12.fc44.src.rpm",
+        "sha256": "4bf3d81123d7a13f88a18032e31f05fd749395d96dc38bcdd2189f37adc4dab4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "mumble",
+    "source_version": "mumble-1.4.287-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 508790,
+        "filename": "munge-0.5.18-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/munge-0.5.18-1.fc44.src.rpm",
+        "sha256": "bd6d27544f10a9b05a8441b6e96823f62b830472aa6f87b2181b814a68363c6d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "munge",
+    "source_version": "munge-0.5.18-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2381798,
+        "filename": "munin-2.0.76-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/munin-2.0.76-9.fc44.src.rpm",
+        "sha256": "29675eb4ffa2e84c2418eafbd3a8f478b39a620154bb8d74634eff64ef1905d9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "munin",
+    "source_version": "munin-2.0.76-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 716986,
+        "filename": "myproxy-6.2.20-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/myproxy-6.2.20-2.fc44.src.rpm",
+        "sha256": "a31a6d958035aea0019ebaaf60a311ac646ad011fc3f5cccddb1dc1679c9c6e0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "myproxy",
+    "source_version": "myproxy-6.2.20-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1209341,
+        "filename": "nas-1.9.5-15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nas-1.9.5-15.fc44.src.rpm",
+        "sha256": "f4ac65d34ce2b89fec5b4d499a2d50a58f40762eb6bdd89312c03daed478f5d0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nas",
+    "source_version": "nas-1.9.5-15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 603251,
+        "filename": "nbd-3.27.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nbd-3.27.0-2.fc44.src.rpm",
+        "sha256": "09c78ce5b6a6bd3baae51248238d8b9fb781951100680e1dea8a0a33037d3353"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nbd",
+    "source_version": "nbd-3.27.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 490649,
+        "filename": "ndctl-85-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ndctl-85-1.fc44.src.rpm",
+        "sha256": "a88adfcc5c8fe683828c57dad61ce0a46d9dddd70adf3db1efdf9f9770b6421e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ndctl",
+    "source_version": "ndctl-85-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4444067,
+        "filename": "nebula-1.11.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nebula-1.11.0-1.fc44.src.rpm",
+        "sha256": "bea2e5e1663f08ae323bb0ebe7af8f309c3992c89e40b3057a8f945b05151d4a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nebula",
+    "source_version": "nebula-1.11.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6985706,
+        "filename": "net-snmp-5.9.5.2-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/net-snmp-5.9.5.2-4.fc44.src.rpm",
+        "sha256": "95775d328c0f1776b7a49cface7771aeca2d10eea65f514383460c2359c1a3e8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "net-snmp",
+    "source_version": "net-snmp-5.9.5.2-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 17871514,
+        "filename": "netavark-1.17.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/netavark-1.17.2-1.fc44.src.rpm",
+        "sha256": "db9e7a703b83de90d67e4c147dbf62875c139343a5425c503066cc0aa4a1cfb0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "netavark",
+    "source_version": "netavark-1.17.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 553642,
+        "filename": "netplan-1.2.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/netplan-1.2.1-2.fc44.src.rpm",
+        "sha256": "89f4cb2a19346f9fb8975c05ee185b33463e4bfad442384611835b8f84581161"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "netplan",
+    "source_version": "netplan-1.2.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 280569707,
+        "filename": "nextcloud-34.0.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nextcloud-34.0.2-1.fc44.src.rpm",
+        "sha256": "db09dcbd25501c5db2c467d48c3b55660ac31befe5c43b2b68d8aeb3ccbcbee6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nextcloud",
+    "source_version": "nextcloud-34.0.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2264276,
+        "filename": "nfs-ganesha-9.16-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nfs-ganesha-9.16-3.fc44.src.rpm",
+        "sha256": "7d8a700b6ac7a66d69598111d17358b6f8400c09e0937f407c789fd75ae8bf9e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nfs-ganesha",
+    "source_version": "nfs-ganesha-9.16-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 917798,
+        "filename": "nfs-utils-2.8.7-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nfs-utils-2.8.7-6.fc44.src.rpm",
+        "sha256": "26da9b0da2aa8b880eb810af97bb0101e44f035f080e2c06b645cf16149c9ee5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nfs-utils",
+    "source_version": "nfs-utils-2.8.7-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1083217,
+        "filename": "nftables-1.1.6-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nftables-1.1.6-2.fc44.src.rpm",
+        "sha256": "fc0a9fefcc2661a5a581472449e1024ff299121b587351930e78fd505ce2147a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nftables",
+    "source_version": "nftables-1.1.6-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1755986,
+        "filename": "nghttp2-1.68.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nghttp2-1.68.0-5.fc44.src.rpm",
+        "sha256": "286347eaba4a5fefdd359bf80773189e954f9b471953444f514e463903587cfe"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nghttp2",
+    "source_version": "nghttp2-1.68.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1447409,
+        "filename": "nginx-1.30.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nginx-1.30.4-1.fc44.src.rpm",
+        "sha256": "9dd605efb025bffd815c460aaa21736859b884c75865600c7d5a87e47b4d5ad4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nginx",
+    "source_version": "nginx-1.30.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 597201,
+        "filename": "ngircd-28-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ngircd-28-1.fc44.src.rpm",
+        "sha256": "750af452815140a2747680826d10e0a05e5ec31ebd785005f685a51aeba8ed17"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ngircd",
+    "source_version": "ngircd-28-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2640619,
+        "filename": "node-exporter-1.12.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/node-exporter-1.12.1-1.fc44.src.rpm",
+        "sha256": "222a777bd7a417fd2d70cfeeadd857cff99c5a72638b1c9d4d9fb40429a3c458"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "node-exporter",
+    "source_version": "node-exporter-1.12.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5382291,
+        "filename": "nordugrid-arc-7.1.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nordugrid-arc-7.1.2-1.fc44.src.rpm",
+        "sha256": "2afc6173a98e4261b98300b74d360493011cef7dd9b9fb35ef071abb1a3d1930"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nordugrid-arc",
+    "source_version": "nordugrid-arc-7.1.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 571441,
+        "filename": "nrpe-4.1.3-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nrpe-4.1.3-5.fc44.src.rpm",
+        "sha256": "5ec5f5de2e1e2883bd1c6b880fa19f288236f5b5c114d4b9ba86c476e8cdfd5e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nrpe",
+    "source_version": "nrpe-4.1.3-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 155732,
+        "filename": "nsca-2.10.3-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nsca-2.10.3-4.fc44.src.rpm",
+        "sha256": "a8fef9718ea52c6420eca5e6e755a758558ca814697117ad01269f6c5f5a2c3c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nsca",
+    "source_version": "nsca-2.10.3-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1678558,
+        "filename": "nsd-4.15.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nsd-4.15.0-1.fc44.src.rpm",
+        "sha256": "3ceff8ed19561a680bc880c02f31d8c6dd8aef3ef8b65ba1db32a73f41992c9d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nsd",
+    "source_version": "nsd-4.15.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 791514,
+        "filename": "nss-pam-ldapd-0.9.10-22.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nss-pam-ldapd-0.9.10-22.fc44.src.rpm",
+        "sha256": "57c07a9811ae2c981f1a6ed4f9707328ede68a98ce262b711113aeb741fc51fa"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nss-pam-ldapd",
+    "source_version": "nss-pam-ldapd-0.9.10-22.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1468808,
+        "filename": "ntpd-rs-1.7.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ntpd-rs-1.7.2-1.fc44.src.rpm",
+        "sha256": "2336c8fc51eaeaaf45e17eaee8dafafb409820b77507c6eb7a53bdd599cb89e0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ntpd-rs",
+    "source_version": "ntpd-rs-1.7.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2769998,
+        "filename": "ntpsec-1.2.4-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ntpsec-1.2.4-8.fc44.src.rpm",
+        "sha256": "94534e8b55e931264b7d1ecc38b122c31eeffec064091328a28f635b29b187c8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ntpsec",
+    "source_version": "ntpsec-1.2.4-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 46657,
+        "filename": "numad-0.5-50.20251104git.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/numad-0.5-50.20251104git.fc44.src.rpm",
+        "sha256": "d5d6cfe7af73d0df01be86668852d5c62aaf412e9b07b5009522c7e980a9252c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "numad",
+    "source_version": "numad-0.5-50.20251104git.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1209833,
+        "filename": "nvme-cli-2.16-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nvme-cli-2.16-2.fc44.src.rpm",
+        "sha256": "e6faa4fb3c90794efa7e4e359eeaa41371961d6f32650509129f4498a69d0476"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nvme-cli",
+    "source_version": "nvme-cli-2.16-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 386198,
+        "filename": "nvme-stas-2.4.1-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/nvme-stas-2.4.1-6.fc44.src.rpm",
+        "sha256": "ebb075b7938c9a2c00684c9b0e020c86bee5a4c633c469a87a5610bc70171882"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "nvme-stas",
+    "source_version": "nvme-stas-2.4.1-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2417756,
+        "filename": "ocsinventory-agent-2.10.5-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ocsinventory-agent-2.10.5-2.fc44.src.rpm",
+        "sha256": "ec43bc43a73dc91416c7fab24d9fbe6fbfcc4e40c562d96aaaecba36e625d4c3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ocsinventory-agent",
+    "source_version": "ocsinventory-agent-2.10.5-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 506349,
+        "filename": "oddjob-0.34.7-18.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/oddjob-0.34.7-18.fc44.src.rpm",
+        "sha256": "c449e3a44dd32f23a3295eb68379083fa94ec38915f7723e95e08791d5c7a1eb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "oddjob",
+    "source_version": "oddjob-0.34.7-18.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 236238,
+        "filename": "oidentd-3.1.0-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/oidentd-3.1.0-10.fc44.src.rpm",
+        "sha256": "7c5a80aa6bcefe3fe9f01eeaa3b5b6ffca8ebcb6c9cdda5afe00b43d1f3471d2"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "oidentd",
+    "source_version": "oidentd-3.1.0-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 29303866,
+        "filename": "ollama-0.12.11-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ollama-0.12.11-4.fc44.src.rpm",
+        "sha256": "d53441a7d19a9bef281321f6c43cb52d78b8bd72ba080acb8b21cb39c05f7f1c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ollama",
+    "source_version": "ollama-0.12.11-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2666817,
+        "filename": "omniORB-4.3.4-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/omniORB-4.3.4-2.fc44.src.rpm",
+        "sha256": "8a0281e04dbe27bf69ccc81363fb9413bdebe8705bdac653b6f59d8164905854"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "omniORB",
+    "source_version": "omniORB-4.3.4-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 12668282,
+        "filename": "onedrive-2.5.11-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/onedrive-2.5.11-1.fc44.src.rpm",
+        "sha256": "0daf09f0a0423903952c3ce69e26e1672644b0bfd60acdd109ea9d907bdeea18"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "onedrive",
+    "source_version": "onedrive-2.5.11-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 174278,
+        "filename": "oomd-0.5.0-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/oomd-0.5.0-16.fc44.src.rpm",
+        "sha256": "a07947ab08b833a5cb9aebe2e0c9eccb560dca74347104985a5d198315d22841"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "oomd",
+    "source_version": "oomd-0.5.0-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4419849,
+        "filename": "open-vm-tools-13.1.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/open-vm-tools-13.1.0-2.fc44.src.rpm",
+        "sha256": "6b13095abcf4150df58efb6d932de0b80eafdb8431f12abdcbddac352b08cebe"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "open-vm-tools",
+    "source_version": "open-vm-tools-13.1.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 39856094,
+        "filename": "openbao-2.6.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/openbao-2.6.1-1.fc44.src.rpm",
+        "sha256": "89ebf2f3635b92f2d9224ea29622b935664580531b8cfca936bc55cd868a9875"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "openbao",
+    "source_version": "openbao-2.6.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 914970,
+        "filename": "openbgpd-9.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/openbgpd-9.1-1.fc44.src.rpm",
+        "sha256": "2831f0da4a835139a3aac41f798121efbf7c231b3361b6246e169d0976e0b256"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "openbgpd",
+    "source_version": "openbgpd-9.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2628206,
+        "filename": "opencryptoki-3.27.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/opencryptoki-3.27.0-1.fc44.src.rpm",
+        "sha256": "2825d63197470787fdbe97154bc0a9e611cefa605733a92fc11a44a7feff3b44"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "opencryptoki",
+    "source_version": "opencryptoki-3.27.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1213607,
+        "filename": "opendnssec-2.1.14-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/opendnssec-2.1.14-3.fc44.src.rpm",
+        "sha256": "48ace0b74546cf2d9ae2bcfd310ba28ee15c4dfc18c41ec9bd66860d161d45c1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "opendnssec",
+    "source_version": "opendnssec-2.1.14-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 198940,
+        "filename": "openfortivpn-1.23.1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/openfortivpn-1.23.1-3.fc44.src.rpm",
+        "sha256": "5f85376ebdeb94b8c18b9e6ff7ece112634e86b9f34ccab6a39123585624687c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "openfortivpn",
+    "source_version": "openfortivpn-1.23.1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6662086,
+        "filename": "openldap-2.6.13-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/openldap-2.6.13-1.fc44.src.rpm",
+        "sha256": "df68032bc1a1e7a4d99f9bf732ecd1963e3b76eddc83dedab1f8c57de09e804b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "openldap",
+    "source_version": "openldap-2.6.13-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1393222,
+        "filename": "opensm-3.3.24-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/opensm-3.3.24-13.fc44.src.rpm",
+        "sha256": "eb337cad823bf7e07e4d0ba9c14f4850e9ab19f773d07e236247ef22f75eb3a9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "opensm",
+    "source_version": "opensm-3.3.24-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 784689,
+        "filename": "opensmtpd-7.8.0p1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/opensmtpd-7.8.0p1-1.fc44.src.rpm",
+        "sha256": "5a49ae38a7df52b4d74b7618adc1ad1386572b546b6659fd35b66d7f7f0af690"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "opensmtpd",
+    "source_version": "opensmtpd-7.8.0p1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2374393,
+        "filename": "openssh-10.2p1-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/openssh-10.2p1-13.fc44.src.rpm",
+        "sha256": "1f1945020d11bc5a9fcf8bccdbddca30bd1853c0cb8765f5b2bad71b0ea73d8c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "openssh",
+    "source_version": "openssh-10.2p1-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2216501,
+        "filename": "ostree-2026.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ostree-2026.2-1.fc44.src.rpm",
+        "sha256": "a1e27a445f50be8ceffc85325d9e9b6757882c501c9c190b03946058f44d3eb8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ostree",
+    "source_version": "ostree-2026.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7340277,
+        "filename": "pacemaker-3.0.2-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pacemaker-3.0.2-3.fc44.src.rpm",
+        "sha256": "6ad0cc5713b9c1cda0ce7eae8cabe0eb3a335c59569cfbeacac6706342ecd919"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pacemaker",
+    "source_version": "pacemaker-3.0.2-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 671796,
+        "filename": "pam-1.7.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pam-1.7.2-2.fc44.src.rpm",
+        "sha256": "f246daf9b2630c4a477c407a2c00a5a8e5a8abab58c18a52d77105749dc78e8a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pam",
+    "source_version": "pam-1.7.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 589620,
+        "filename": "pappl-retrofit-1.0b2-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pappl-retrofit-1.0b2-11.fc44.src.rpm",
+        "sha256": "4a6a113543406fd0b6e6dfd3f232b9f0dbe4f082a399d16988efbb077fe7bd3c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pappl-retrofit",
+    "source_version": "pappl-retrofit-1.0b2-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 97538,
+        "filename": "passim-0.1.12-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/passim-0.1.12-1.fc44.src.rpm",
+        "sha256": "d646fe99660afdaab99429b8bcd42f563d52841d876530df1c4e0cf54f86e76b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "passim",
+    "source_version": "passim-0.1.12-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 34823179,
+        "filename": "pcp-7.2.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pcp-7.2.0-1.fc44.src.rpm",
+        "sha256": "d8e96eb9caa288075fd540c27e75d12fdde6cb2c68fb45d1abdbc56fb5aae2ea"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pcp",
+    "source_version": "pcp-7.2.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 38644970,
+        "filename": "pcs-0.12.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pcs-0.12.2-2.fc44.src.rpm",
+        "sha256": "2e348cb77dab16978d422ca926422b16f8bd442abccd3009a96cc4e9b910d124"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pcs",
+    "source_version": "pcs-0.12.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 269396,
+        "filename": "pcsc-lite-2.4.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pcsc-lite-2.4.1-2.fc44.src.rpm",
+        "sha256": "4d038e633032f9586b8d087d1c859b803de9ba76e25973cd0904406e929ccd53"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pcsc-lite",
+    "source_version": "pcsc-lite-2.4.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 29337464,
+        "filename": "perfetto-49.0-3.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/perfetto-49.0-3.fc43.src.rpm",
+        "sha256": "d9cd7fd4b2dfc66abc3f20ee46ff21ba27e9ff921e114494a22f6be5ec168398"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "perfetto",
+    "source_version": "perfetto-49.0-3.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 169750,
+        "filename": "pesign-116-7.fc42.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pesign-116-7.fc42.src.rpm",
+        "sha256": "a1ac3dfbd349cbd0f12d3fcdde97cc0f0059559ac97ada550af973b13d29d185"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pesign",
+    "source_version": "pesign-116-7.fc42.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 882176,
+        "filename": "pgbouncer-1.25.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pgbouncer-1.25.2-1.fc44.src.rpm",
+        "sha256": "745d6bca97aafb3b75e266cb8908240e3f263d6ce55a595c9c885ef34c8e5b94"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pgbouncer",
+    "source_version": "pgbouncer-1.25.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 85379,
+        "filename": "phodav-3.0-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/phodav-3.0-13.fc44.src.rpm",
+        "sha256": "31a1e7d26c726c9cade6909ffc28739c033cc24dd624145234e0e83626283bb4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "phodav",
+    "source_version": "phodav-3.0-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 14695264,
+        "filename": "php-8.5.9-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/php-8.5.9-1.fc44.src.rpm",
+        "sha256": "7e7af544624fc0a168040af55532d7103c681dc8b0d44c6f671a95487c6a2eb3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "php",
+    "source_version": "php-8.5.9-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 24347246,
+        "filename": "phrog-0.50.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/phrog-0.50.0-2.fc44.src.rpm",
+        "sha256": "74d5016b1de9a8d9e31bfa44c12f2542ebe6d07ae02d4525a0877bc460f664a8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "phrog",
+    "source_version": "phrog-0.50.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 954902,
+        "filename": "plasma-drkonqi-6.7.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/plasma-drkonqi-6.7.4-1.fc44.src.rpm",
+        "sha256": "25a9e1a0fd91f6d85f80757a11225d27da8a69ce5156b48b2351db8ee75f71f0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "plasma-drkonqi",
+    "source_version": "plasma-drkonqi-6.7.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 95775,
+        "filename": "plocate-1.1.24-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/plocate-1.1.24-1.fc44.src.rpm",
+        "sha256": "eafb5343174cb4fc7976db54aab221416bfc5679c0b4a9a39d55c37584572609"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "plocate",
+    "source_version": "plocate-1.1.24-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2032283,
+        "filename": "plymouth-24.004.60-24.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/plymouth-24.004.60-24.fc44.src.rpm",
+        "sha256": "d2434a57f7adb661b42c8f185e4fa6c25405202243c077fc040ab4d7a04f592a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "plymouth",
+    "source_version": "plymouth-24.004.60-24.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 532886,
+        "filename": "polkit-127-2.fc44.2.src.rpm",
+        "path": "NOT_REDISTRIBUTED/polkit-127-2.fc44.2.src.rpm",
+        "sha256": "1574dbf200a7c02c5c442e57d5cd40fc321119726d9f0649f21ca98a55c1e928"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "polkit",
+    "source_version": "polkit-127-2.fc44.2.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 181120,
+        "filename": "portsentry-2.0.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/portsentry-2.0.7-1.fc44.src.rpm",
+        "sha256": "fd1819f2ba270e4917673b6098d0eb1feada67ca94403331d83be084c74ac2c0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "portsentry",
+    "source_version": "portsentry-2.0.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5215177,
+        "filename": "postfix-3.10.10-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postfix-3.10.10-1.fc44.src.rpm",
+        "sha256": "1dba06845aa8f9b365621f065effa1b7cfa8ca457e25c844e685bb8fcc920fd5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postfix",
+    "source_version": "postfix-3.10.10-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 98664,
+        "filename": "postfix-mta-sts-resolver-1.5.1-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postfix-mta-sts-resolver-1.5.1-5.fc44.src.rpm",
+        "sha256": "fb63edb159988e39de9c66bec0afaab5e83a2b081a0377cb7f14cfe83cfb287b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postfix-mta-sts-resolver",
+    "source_version": "postfix-mta-sts-resolver-1.5.1-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 283183,
+        "filename": "postfwd-2.03-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postfwd-2.03-13.fc44.src.rpm",
+        "sha256": "a65168979d9557b40792d2e1cc4b321215c24f46a57df7b05addb0ef16761e9f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postfwd",
+    "source_version": "postfwd-2.03-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 48620120,
+        "filename": "postgresql16-16.14-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postgresql16-16.14-1.fc44.src.rpm",
+        "sha256": "8522a31a6afd341fc57eacfcbc566a8532454d9346915378fbf6ecb7b22de4bc"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postgresql16",
+    "source_version": "postgresql16-16.14-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 46889915,
+        "filename": "postgresql17-17.10-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postgresql17-17.10-1.fc44.src.rpm",
+        "sha256": "4ff979f43810ef5e0a24b987f0216415b2f5d8762f9e61d48e335313c4fde18d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postgresql17",
+    "source_version": "postgresql17-17.10-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 69276171,
+        "filename": "postgresql18-18.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postgresql18-18.4-1.fc44.src.rpm",
+        "sha256": "3339a067099f9457004353b760a420996c20fe571401a572ab8bb245f02e7b9b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postgresql18",
+    "source_version": "postgresql18-18.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 69457,
+        "filename": "postgrey-1.37-28.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/postgrey-1.37-28.fc44.src.rpm",
+        "sha256": "63240bb94a4203c3d4ba862bc1e9828628dff07e702a9dc6f1da96920963bc74"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "postgrey",
+    "source_version": "postgrey-1.37-28.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 89420,
+        "filename": "power-profiles-daemon-0.30-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/power-profiles-daemon-0.30-3.fc44.src.rpm",
+        "sha256": "461ef5bb07cd3332b6e4293ba738e59fa7d2b9c1da40bea480ca77526ca71257"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "power-profiles-daemon",
+    "source_version": "power-profiles-daemon-0.30-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 292698,
+        "filename": "pptpd-1.5.0-7.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pptpd-1.5.0-7.fc44.src.rpm",
+        "sha256": "63c01cb0dc77671bf0b0f6291addad3b4fdc62ed094e3f60418f5b75f8e68d88"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pptpd",
+    "source_version": "pptpd-1.5.0-7.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1814170,
+        "filename": "privoxy-4.1.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/privoxy-4.1.0-2.fc44.src.rpm",
+        "sha256": "4b5830a56be4760c89aba377edb76be35b8e99efb7074875c7f0ce1f443ed785"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "privoxy",
+    "source_version": "privoxy-4.1.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 20791029,
+        "filename": "proftpd-1.3.9c-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/proftpd-1.3.9c-3.fc44.src.rpm",
+        "sha256": "0fd63d09c09c298036b6e8b15cc407908ca44b337adaa2e373298f26c1bc2f80"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "proftpd",
+    "source_version": "proftpd-1.3.9c-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 795744,
+        "filename": "prosody-13.0.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/prosody-13.0.6-1.fc44.src.rpm",
+        "sha256": "16122de18c091e293c330bed0b151c45256f326c8ba2ff23800714fd659928eb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "prosody",
+    "source_version": "prosody-13.0.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 902342,
+        "filename": "psacct-6.6.4-26.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/psacct-6.6.4-26.fc44.src.rpm",
+        "sha256": "1c86b711b23827d3b0d2babec0b9299d6940a6869966cabbd5b19c6451455c99"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "psacct",
+    "source_version": "psacct-6.6.4-26.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2577188,
+        "filename": "psad-2.4.6-24.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/psad-2.4.6-24.fc44.src.rpm",
+        "sha256": "cae556fef6e6c1e835f9052d2cb90c53f21d71576cdd848e1e1792f8a3e544e0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "psad",
+    "source_version": "psad-2.4.6-24.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 97330,
+        "filename": "pypolicyd-spf-3.1.0-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/pypolicyd-spf-3.1.0-8.fc44.src.rpm",
+        "sha256": "e0b39b531b418d6b0c7380a62caf53395024bb1ee8d02433437800cb12369ac0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "pypolicyd-spf",
+    "source_version": "pypolicyd-spf-3.1.0-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 152289,
+        "filename": "python-carbon-1.1.10-17.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/python-carbon-1.1.10-17.fc44.src.rpm",
+        "sha256": "7098af50b4d1c1392c079877bab139648f4a7502f176752e50e329aa72ef1d56"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "python-carbon",
+    "source_version": "python-carbon-1.1.10-17.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3272972,
+        "filename": "python-exabgp-5.0.9-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/python-exabgp-5.0.9-1.fc44.src.rpm",
+        "sha256": "7a00658bdf258d093cc21b717fb12794f0c3a0002d779d0476b33512d58e0bf6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "python-exabgp",
+    "source_version": "python-exabgp-5.0.9-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 96924,
+        "filename": "python-rtslib-2.2.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/python-rtslib-2.2.4-1.fc44.src.rpm",
+        "sha256": "26cd744aeb60b9ea9fb40d5c336698a2b1926618d122651a62db67283ac06ac4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "python-rtslib",
+    "source_version": "python-rtslib-2.2.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 72883,
+        "filename": "python-virtualbmc-3.2.0-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/python-virtualbmc-3.2.0-8.fc44.src.rpm",
+        "sha256": "7fb0f483fa7c9fa9bf8ad0955dd35e7258dd8faac7b8c3eb2be1c972e05f9c82"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "python-virtualbmc",
+    "source_version": "python-virtualbmc-3.2.0-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3065737,
+        "filename": "qatlib-26.02.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/qatlib-26.02.0-2.fc44.src.rpm",
+        "sha256": "98c18abeb51db7590f9ee6b38e0d818ff6fd38090ea90805c39ae27e2c283211"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "qatlib",
+    "source_version": "qatlib-26.02.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5389649,
+        "filename": "qbittorrent-5.2.3-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/qbittorrent-5.2.3-4.fc44.src.rpm",
+        "sha256": "2810e4e19436b167b3be8a87c16bbcc033de0d47f19e6c9cd62904d5e825888e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "qbittorrent",
+    "source_version": "qbittorrent-5.2.3-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 56785,
+        "filename": "qbootctl-0.2.2-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/qbootctl-0.2.2-2.fc44.src.rpm",
+        "sha256": "822d4a10609ff55803bc023d0b4805bf6ac696e130661d5574273b7e5dfdff39"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "qbootctl",
+    "source_version": "qbootctl-0.2.2-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 141353230,
+        "filename": "qemu-10.2.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/qemu-10.2.2-1.fc44.src.rpm",
+        "sha256": "713bd87bdd7a11aea264b65e8e33a40d194ed68dc1f4467ebf3137741f3816b5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "qemu",
+    "source_version": "qemu-10.2.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4802319,
+        "filename": "quassel-0.14.0-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/quassel-0.14.0-14.fc44.src.rpm",
+        "sha256": "e48bbdf596c9cfba4fd6eaa0823a46fae4f958e3c17db7e7d6d6d6a016085b47"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "quassel",
+    "source_version": "quassel-0.14.0-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 614639,
+        "filename": "quota-4.11-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/quota-4.11-2.fc44.src.rpm",
+        "sha256": "0d2c9066f3708a3568ac3637628f434aba35da8a58d11e378b6fe6fc8499240d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "quota",
+    "source_version": "quota-4.11-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3608087,
+        "filename": "rabbitmq-server-4.2.9-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rabbitmq-server-4.2.9-2.fc44.src.rpm",
+        "sha256": "288be93cad01f142ca2cf1d7721fbaf555544fe42d1b7946301d4551599d08ef"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rabbitmq-server",
+    "source_version": "rabbitmq-server-4.2.9-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4430826,
+        "filename": "radicale-3.7.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/radicale-3.7.7-1.fc44.src.rpm",
+        "sha256": "7b5dec59f41693ac78bce71469ccfa7d4d6dff95cda3e059165685136077be23"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "radicale",
+    "source_version": "radicale-3.7.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 314907,
+        "filename": "radsecproxy-1.11.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/radsecproxy-1.11.3-1.fc44.src.rpm",
+        "sha256": "165c100eca1c9a13de0f775ef1599d613588c6c287962b48e23c5c003722dba4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "radsecproxy",
+    "source_version": "radsecproxy-1.11.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2130874,
+        "filename": "rdma-core-61.0-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rdma-core-61.0-2.fc44.src.rpm",
+        "sha256": "6e1b5bc972c9f25e8d8fa11d71b231e747b2a62fb08b6f405ed5da7eaf067d65"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rdma-core",
+    "source_version": "rdma-core-61.0-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3501482,
+        "filename": "recoll-1.43.17-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/recoll-1.43.17-1.fc44.src.rpm",
+        "sha256": "0b3aa96e1f0337ba16d3d2b5f54e28950d33605ba2a2cb9a91b19cafca1e529c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "recoll",
+    "source_version": "recoll-1.43.17-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3442592,
+        "filename": "redict-7.3.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/redict-7.3.6-1.fc44.src.rpm",
+        "sha256": "9112c1ab5ec468dd29eabc07f426695844c07f25d744eacf88b2aa3685b7a52b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "redict",
+    "source_version": "redict-7.3.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 997723,
+        "filename": "resource-agents-4.18.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/resource-agents-4.18.0-1.fc44.src.rpm",
+        "sha256": "1c1947ddb8f05d2ba64f39d3341623b50c28665f8b97d9e89ceb34601ff24b08"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "resource-agents",
+    "source_version": "resource-agents-4.18.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 23593,
+        "filename": "rmtfs-1.1.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rmtfs-1.1.1-2.fc44.src.rpm",
+        "sha256": "0ac0bf68f0aa0d870f5ee0d95668c2268262a88c2e71332ed96eec7005ea1623"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rmtfs",
+    "source_version": "rmtfs-1.1.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 109321,
+        "filename": "rng-tools-6.17-10.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rng-tools-6.17-10.fc44.src.rpm",
+        "sha256": "1c9c7d6fd473692a5ca7252edc9798912dfc7319d5d389142aaa46a56d099709"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rng-tools",
+    "source_version": "rng-tools-6.17-10.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 176772,
+        "filename": "rpcbind-1.2.9-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rpcbind-1.2.9-2.fc44.src.rpm",
+        "sha256": "33f60d9d5007f6e355ba4eed5009d0f862f037957e829b951a15cfdd21a30783"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rpcbind",
+    "source_version": "rpcbind-1.2.9-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3166024,
+        "filename": "rrdtool-1.9.0-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rrdtool-1.9.0-11.fc44.src.rpm",
+        "sha256": "5d4a2f16acb3dfe1691d3b884f0d6aeb837b2060ff1d3276046d7b575ac915a9"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rrdtool",
+    "source_version": "rrdtool-1.9.0-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1290933,
+        "filename": "rsync-3.4.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rsync-3.4.4-1.fc44.src.rpm",
+        "sha256": "636d78910245456572099e129205c170052e2ace3fe5ce76df00ae8abaea9e82"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rsync",
+    "source_version": "rsync-3.4.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 12712850,
+        "filename": "rsyslog-8.2604.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/rsyslog-8.2604.0-1.fc44.src.rpm",
+        "sha256": "8db4b274bab274813251486a967024422ccd86ea71d62d098c1ec1bc7849cba3"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "rsyslog",
+    "source_version": "rsyslog-8.2604.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 28151654,
+        "filename": "samba-4.24.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/samba-4.24.5-1.fc44.src.rpm",
+        "sha256": "75daf2114a7bf9fe95b79aa85992333a863dae925834a709019a241fe8407cb0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "samba",
+    "source_version": "samba-4.24.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7596264,
+        "filename": "sane-backends-1.4.0-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sane-backends-1.4.0-6.fc44.src.rpm",
+        "sha256": "615d3290c06de1eea0458a7ac4e14d5fa017fdf9337e5286e899468092e7f451"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sane-backends",
+    "source_version": "sane-backends-1.4.0-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3610223,
+        "filename": "sddm-0.21.0-13.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sddm-0.21.0-13.fc44.src.rpm",
+        "sha256": "644dd505e52e94547b52715ef4257f178ff5c12e408db7870cb41557e28c61cb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sddm",
+    "source_version": "sddm-0.21.0-13.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 60999,
+        "filename": "seatd-0.9.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/seatd-0.9.3-1.fc44.src.rpm",
+        "sha256": "37cda8d36cc1e238e5105d27ca9775dd0dff0ceba8a37908a0f42b43ccc89955"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "seatd",
+    "source_version": "seatd-0.9.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2515442,
+        "filename": "sendmail-8.18.2-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sendmail-8.18.2-4.fc44.src.rpm",
+        "sha256": "5de7fa674e3949aee0ccf0b73c2ea5425d9d7279e55ac1f7b9247fafd25cb9a6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sendmail",
+    "source_version": "sendmail-8.18.2-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 177125,
+        "filename": "ser2net-4.6.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ser2net-4.6.7-1.fc44.src.rpm",
+        "sha256": "731f7ed958a8518cef796a2e32dfd47cd356aaacd339423a4e9bc8b344ed6feb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ser2net",
+    "source_version": "ser2net-4.6.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 583557,
+        "filename": "shairport-sync-4.3.7-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/shairport-sync-4.3.7-3.fc44.src.rpm",
+        "sha256": "63a6933d08c0a2be9f9ad9cb7e43f9be622ee2157814670c5164d2a745ad0e95"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "shairport-sync",
+    "source_version": "shairport-sync-4.3.7-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 773843,
+        "filename": "shellinabox-2.20-28.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/shellinabox-2.20-28.fc44.src.rpm",
+        "sha256": "84efed4bcc7574cedb88a7c2fc1d70dfe6bfd1b5c7be0d4cfd4d08b2f1d05804"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "shellinabox",
+    "source_version": "shellinabox-2.20-28.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 577688,
+        "filename": "slim-1.4.0-16.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/slim-1.4.0-16.fc44.src.rpm",
+        "sha256": "ccdb530d2a1bf07e21cabb1e301333cef26927bb2c25d71de2da96261dbcbbab"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "slim",
+    "source_version": "slim-1.4.0-16.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7205547,
+        "filename": "slurm-24.05.2-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/slurm-24.05.2-6.fc44.src.rpm",
+        "sha256": "6bf189929ca621b1febdcccc3fcd49b27417c9e2a854d7bcac9f6c5adab89e16"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "slurm",
+    "source_version": "slurm-24.05.2-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1241953,
+        "filename": "smartmontools-7.5-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/smartmontools-7.5-6.fc44.src.rpm",
+        "sha256": "aaf878dff0ed53332e92251e222b02ba7ace76d552ccbb8198fc8b5b6d2fe0bf"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "smartmontools",
+    "source_version": "smartmontools-7.5-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 610561,
+        "filename": "smokeping-2.9.0-15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/smokeping-2.9.0-15.fc44.src.rpm",
+        "sha256": "0800bfe557ac444087f0da702e973a111fc933de65c192fd15791369e0aa3c0c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "smokeping",
+    "source_version": "smokeping-2.9.0-15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 22653478,
+        "filename": "snapd-2.76-0.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/snapd-2.76-0.fc44.src.rpm",
+        "sha256": "9e047d222b59502cd85a8384aae250981742ef85cc82d137d42e123ebecc3352"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "snapd",
+    "source_version": "snapd-2.76-0.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 587119,
+        "filename": "snapper-0.13.0-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/snapper-0.13.0-3.fc44.src.rpm",
+        "sha256": "eda21fdb8827939f43e6c0aa80f532940cd127b180072e0a22a8bdfc33485998"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "snapper",
+    "source_version": "snapper-0.13.0-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 87204,
+        "filename": "spacenavd-1.3.1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/spacenavd-1.3.1-3.fc44.src.rpm",
+        "sha256": "f5c2c75156e1d49825ebc813d0d1d340ee9a9686e56b38ed6648e1696ed4a391"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "spacenavd",
+    "source_version": "spacenavd-1.3.1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 213240,
+        "filename": "spamass-milter-0.4.0-32.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/spamass-milter-0.4.0-32.fc44.src.rpm",
+        "sha256": "e9a5cbc29bc9d7b9b91fb5301685ced807789bb3562ba6db860e3a1e097487c7"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "spamass-milter",
+    "source_version": "spamass-milter-0.4.0-32.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6960071,
+        "filename": "spamassassin-4.0.2-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/spamassassin-4.0.2-3.fc44.src.rpm",
+        "sha256": "4146be970d5c1bdb6a539b8a3548af3f26682bdc52d64f07ccd26f41821ade13"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "spamassassin",
+    "source_version": "spamassassin-4.0.2-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8090941,
+        "filename": "speech-dispatcher-0.12.1-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/speech-dispatcher-0.12.1-6.fc44.src.rpm",
+        "sha256": "a4ed10b08e6d0704cabf3ac02529f5c12e8acd657d24f8d9425004f643f29a94"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "speech-dispatcher",
+    "source_version": "speech-dispatcher-0.12.1-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 100620,
+        "filename": "sqlgrey-1.8.0-34.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sqlgrey-1.8.0-34.fc44.src.rpm",
+        "sha256": "5e5a8c2205d688e442a80e2c4305ab6e6c84c6e54d3ad4bca0d7b737e226d0ec"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sqlgrey",
+    "source_version": "sqlgrey-1.8.0-34.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2641220,
+        "filename": "squid-7.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/squid-7.6-1.fc44.src.rpm",
+        "sha256": "a81709b9de518bab9023da216eb72c0a434e6466441338e68eacd8ccb5896f5a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "squid",
+    "source_version": "squid-7.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 756880,
+        "filename": "sshguard-2.5.1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sshguard-2.5.1-3.fc44.src.rpm",
+        "sha256": "8bc731cb6b138e43c32ab4b0b2896b37bcb46ddfa57a5e5577b2aca479cba66d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sshguard",
+    "source_version": "sshguard-2.5.1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 9313567,
+        "filename": "sssd-2.13.1-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sssd-2.13.1-2.fc44.src.rpm",
+        "sha256": "f0bb96825da46918bf6f76cf52c3862c1563f494203ce651bff3b77475abc4eb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sssd",
+    "source_version": "sssd-2.13.1-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5006507,
+        "filename": "strongswan-6.0.7-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/strongswan-6.0.7-1.fc44.src.rpm",
+        "sha256": "74113d809a63fb353b637bf78902c1e35538d7e6e2490c707a808ab7e23bd65c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "strongswan",
+    "source_version": "strongswan-6.0.7-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 994216,
+        "filename": "stunnel-5.78-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/stunnel-5.78-1.fc44.src.rpm",
+        "sha256": "ef7c1a12844a1f14693d851964c55b2eab85123d864f9df4d27bed260c0fb6b1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "stunnel",
+    "source_version": "stunnel-5.78-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 8782676,
+        "filename": "subversion-1.14.5-26.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/subversion-1.14.5-26.fc44.src.rpm",
+        "sha256": "b9ec22fd146f446da122dc6ce35a4978a4abcab534f99accee1f5bc9007b6177"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "subversion",
+    "source_version": "subversion-1.14.5-26.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 486369,
+        "filename": "supervisor-4.3.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/supervisor-4.3.0-1.fc44.src.rpm",
+        "sha256": "bfade40b583c48ddebf0fa9a9bd3ec85291f250bb6847ff221e76d9faf9c186a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "supervisor",
+    "source_version": "supervisor-4.3.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 44163929,
+        "filename": "suricata-8.0.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/suricata-8.0.5-1.fc44.src.rpm",
+        "sha256": "51c999b3ccc3202d6af083f0f0f6b7b565b52a9c05b2c68dcb35bc51d17dcae6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "suricata",
+    "source_version": "suricata-8.0.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 16232737,
+        "filename": "svxlink-24.02-7.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/svxlink-24.02-7.fc43.src.rpm",
+        "sha256": "a0a39fcf240e82475bc0495a3c17433c51951eab40251ac6edf25018eb4d8c62"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "svxlink",
+    "source_version": "svxlink-24.02-7.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 49983,
+        "filename": "switcheroo-control-3.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/switcheroo-control-3.0-5.fc44.src.rpm",
+        "sha256": "0f0b41d4ab9eee06a039401d5eaf83d37383b1d648ffa635038255bd2ac91673"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "switcheroo-control",
+    "source_version": "switcheroo-control-3.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 999695,
+        "filename": "sysrepo-3.7.11-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sysrepo-3.7.11-2.fc44.src.rpm",
+        "sha256": "b3a4fb7ff4e39b8060a42119be06c0f34ca8b956802b22ee02699f58fa495cff"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sysrepo",
+    "source_version": "sysrepo-3.7.11-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1564534,
+        "filename": "sysstat-12.7.9-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/sysstat-12.7.9-2.fc44.src.rpm",
+        "sha256": "f85a77bc6a901f774d682f5de854225533dfc83410e3372e00ca66dc07e0fe26"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "sysstat",
+    "source_version": "sysstat-12.7.9-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1541839,
+        "filename": "system-config-printer-1.5.18-17.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/system-config-printer-1.5.18-17.fc44.src.rpm",
+        "sha256": "1efbc47b4b728874698fd4b755912345aae426df5a9282592ad60a77c3f46cbd"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "system-config-printer",
+    "source_version": "system-config-printer-1.5.18-17.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 17574721,
+        "filename": "systemd-259.8-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/systemd-259.8-1.fc44.src.rpm",
+        "sha256": "40f185cc325c5f4e64c4d56e820a0519ccf63991aedc1da9879a126039bd3d0a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "systemd",
+    "source_version": "systemd-259.8-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 132108,
+        "filename": "systemd-bootchart-235-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/systemd-bootchart-235-4.fc44.src.rpm",
+        "sha256": "672cce21ff49e9eb149b09ba40aeb1629245e5f3717e548828aebdebb2110088"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "systemd-bootchart",
+    "source_version": "systemd-bootchart-235-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 6612774,
+        "filename": "systemtap-5.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/systemtap-5.5-1.fc44.src.rpm",
+        "sha256": "07f9d066cd70d04a530a2a0562b3360963eeb89df8b49ccfdd9c1addcd25619c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "systemtap",
+    "source_version": "systemtap-5.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 51602,
+        "filename": "tang-15-11.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tang-15-11.fc44.src.rpm",
+        "sha256": "533829f8d9565c7a68210212f24df80c684cbb38795e56bcb0a432f797d8827c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tang",
+    "source_version": "tang-15-11.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 78192,
+        "filename": "targetcli-3.0.1-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/targetcli-3.0.1-5.fc44.src.rpm",
+        "sha256": "b8181b5e941deb9040267cd54a635a472abaf75bf6ba438606918cdcde6e0c9d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "targetcli",
+    "source_version": "targetcli-3.0.1-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 185444,
+        "filename": "tcmu-runner-1.5.4-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tcmu-runner-1.5.4-14.fc44.src.rpm",
+        "sha256": "77a77881bfac40cb98f55f1ddfb1d12a67445cab8fc99e29516ca42d1d466450"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tcmu-runner",
+    "source_version": "tcmu-runner-1.5.4-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 9045323,
+        "filename": "teeworlds-0.7.5-19.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/teeworlds-0.7.5-19.fc43.src.rpm",
+        "sha256": "956f97b52cddcbc1b8017b23021b866330ef5caea72b1308558efdec15547a77"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "teeworlds",
+    "source_version": "teeworlds-0.7.5-19.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 105446,
+        "filename": "tetrinetx-1.13.16-43.fc43.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tetrinetx-1.13.16-43.fc43.src.rpm",
+        "sha256": "cd200f8991f135dcf3caed4ce66377ec7f188def57f02fc027b0e922db0f8eb1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tetrinetx",
+    "source_version": "tetrinetx-1.13.16-43.fc43.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "HTTP Error 404: Not Found",
+    "distribution": "fedora",
+    "files": [],
+    "source_kind": "fedora_srpm",
+    "source_name": "thermald",
+    "source_version": "thermald-2.5.12-1.fc44.src.rpm",
+    "status": "SOURCE_FETCH_FAILURE"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 118255,
+        "filename": "thinkfan-2.0.0-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/thinkfan-2.0.0-3.fc44.src.rpm",
+        "sha256": "d81cadeddedda19372d503f2b67a60d75206a30401fcaac72d1253bbd4d9f6f5"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "thinkfan",
+    "source_version": "thinkfan-2.0.0-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 525315,
+        "filename": "tinc-1.0.36-17.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tinc-1.0.36-17.fc44.src.rpm",
+        "sha256": "c280201cfcbcf5c87997c484ecff47515d861de3f9ae3fedd608dd161f374181"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tinc",
+    "source_version": "tinc-1.0.36-17.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 217986,
+        "filename": "tinyproxy-1.11.2-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tinyproxy-1.11.2-8.fc44.src.rpm",
+        "sha256": "f9fa67c90de7a8827d8875258232c0ec25189217aba0daffc5a69f34c7356265"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tinyproxy",
+    "source_version": "tinyproxy-1.11.2-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 244951,
+        "filename": "tlp-1.10.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tlp-1.10.1-1.fc44.src.rpm",
+        "sha256": "13c1bc09dfdceeb62f5bc689b11bfdefe5e7727295e18400030e6b62656cb8b0"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tlp",
+    "source_version": "tlp-1.10.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 905522,
+        "filename": "tntnet-3.0-15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tntnet-3.0-15.fc44.src.rpm",
+        "sha256": "70979c025bb7b09a0985fe0e904e92f351bdc37c8783ae81b3ba5c18f239ba0b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tntnet",
+    "source_version": "tntnet-3.0-15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7682809,
+        "filename": "tomcat-10.1.57-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tomcat-10.1.57-1.fc44.src.rpm",
+        "sha256": "744a01eb49af9b5da4484624c084ad034a1347f0f60ad64606f2f3daf18c03fc"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tomcat",
+    "source_version": "tomcat-10.1.57-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 10537868,
+        "filename": "tor-0.4.9.11-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tor-0.4.9.11-1.fc44.src.rpm",
+        "sha256": "235ed8c8e03f10b706038c6a4b1f19b4cdb57e3a7153da6474903b28f6d72aee"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tor",
+    "source_version": "tor-0.4.9.11-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 26858235,
+        "filename": "touchegg-2.0.18-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/touchegg-2.0.18-4.fc44.src.rpm",
+        "sha256": "a05c6c4ac313adae0b1fbd0931e4bd38f551ad05153b7b19d3cf415196a5dfdc"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "touchegg",
+    "source_version": "touchegg-2.0.18-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 601716,
+        "filename": "tpm2-abrmd-3.0.0-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tpm2-abrmd-3.0.0-9.fc44.src.rpm",
+        "sha256": "534e4034d11e84b8d80ff0a092a21d7f804ab366f9b16a52d2eff9b1faa1fdaf"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tpm2-abrmd",
+    "source_version": "tpm2-abrmd-3.0.0-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 20013,
+        "filename": "tqftpserv-1.1.1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tqftpserv-1.1.1-3.fc44.src.rpm",
+        "sha256": "4435787d086efc9b8d7ec7d180ccbd41b7def4e6f02d40b296f066af93b031bb"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tqftpserv",
+    "source_version": "tqftpserv-1.1.1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 11908407,
+        "filename": "transmission-4.1.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/transmission-4.1.3-1.fc44.src.rpm",
+        "sha256": "5ad3a2e4e6a34b4af9d2507299fb2170ad107d275b46b2e93db59813d0af8902"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "transmission",
+    "source_version": "transmission-4.1.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 81313,
+        "filename": "trojan-1.16.0-30.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/trojan-1.16.0-30.fc44.src.rpm",
+        "sha256": "32308e58660f14506161c58e50fd8931b61d304df398bb9136d22defcfc9997c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "trojan",
+    "source_version": "trojan-1.16.0-30.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4735735,
+        "filename": "trousers-0.3.15-17.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/trousers-0.3.15-17.fc44.src.rpm",
+        "sha256": "8cf0f1a77b24df475c9a5c4f61d75bb7e35d1c344c4b52113516599082449471"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "trousers",
+    "source_version": "trousers-0.3.15-17.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 81228,
+        "filename": "tuptime-5.2.6-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/tuptime-5.2.6-1.fc44.src.rpm",
+        "sha256": "f1e07839b135a782fa26e6b17ee4c8568209eff258d95057bbbc66617f49e42a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "tuptime",
+    "source_version": "tuptime-5.2.6-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 770073,
+        "filename": "udisks-1.0.5-31.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/udisks-1.0.5-31.fc44.src.rpm",
+        "sha256": "4ddf43ad5cfc043288a2abba356f2fd97c868f486afa138818653ae05948b98e"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "udisks",
+    "source_version": "udisks-1.0.5-31.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 116111,
+        "filename": "udpxy-1.0.25.1-8.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/udpxy-1.0.25.1-8.fc44.src.rpm",
+        "sha256": "a395ec660e672cbf99869650a9da38ad2259907a03b0005d5c62ae82c2e43b9a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "udpxy",
+    "source_version": "udpxy-1.0.25.1-8.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 418368,
+        "filename": "ufw-0.35-39.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/ufw-0.35-39.fc44.src.rpm",
+        "sha256": "64443439a05430847bc9a2f13ff54ad94a85b085bb81307eaf167b0a1e3712e7"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "ufw",
+    "source_version": "ufw-0.35-39.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 11376559,
+        "filename": "unrealircd-6.1.10-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/unrealircd-6.1.10-3.fc44.src.rpm",
+        "sha256": "894c9fc3820b6cbf17d64a7095560155933f03d7da83c1527ca8395196cfaa2d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "unrealircd",
+    "source_version": "unrealircd-6.1.10-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 174093,
+        "filename": "up-imapproxy-1.2.8-0.34.20250101svn15036.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/up-imapproxy-1.2.8-0.34.20250101svn15036.fc44.src.rpm",
+        "sha256": "cfb7bda871146fbf7a12311fc60a84d82255a52bf2535e39fefa0b47f5908c0d"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "up-imapproxy",
+    "source_version": "up-imapproxy-1.2.8-0.34.20250101svn15036.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 209961,
+        "filename": "upower-1.91.3-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/upower-1.91.3-1.fc44.src.rpm",
+        "sha256": "7121077a061dfc968faf8c5e6bb961b57959e60bbdab7aa7356c53c9e384374f"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "upower",
+    "source_version": "upower-1.91.3-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 83258,
+        "filename": "uptimed-0.4.7-4.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/uptimed-0.4.7-4.fc44.src.rpm",
+        "sha256": "91e3f8dd77bb20bc0375ab96e9c03a1377c9e0735ce499d02d4578885ac41527"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "uptimed",
+    "source_version": "uptimed-0.4.7-4.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 87199,
+        "filename": "usb_modeswitch-2.6.2-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/usb_modeswitch-2.6.2-5.fc44.src.rpm",
+        "sha256": "6c7310d804637fd75c1fdd5698fcf512bab5cc812d5b68fcd43aa2d6908f9a94"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "usb_modeswitch",
+    "source_version": "usb_modeswitch-2.6.2-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1732917,
+        "filename": "usbguard-1.1.4-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/usbguard-1.1.4-1.fc44.src.rpm",
+        "sha256": "95306483983423e9d825ca9504b0a7e040c6dcd942492738131686b18e4247a8"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "usbguard",
+    "source_version": "usbguard-1.1.4-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 63576,
+        "filename": "usbip-5.7.9-14.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/usbip-5.7.9-14.fc44.src.rpm",
+        "sha256": "c0919898954d2118276c9b73fa7775622035c26e91b3d063b9dcedad0716bb88"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "usbip",
+    "source_version": "usbip-5.7.9-14.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 983194,
+        "filename": "usbrelay-1.2.1-12.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/usbrelay-1.2.1-12.fc44.src.rpm",
+        "sha256": "bc89c31537f019620d409be9d4c9665c14b6232490a942fe7e9ccee0692fa13b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "usbrelay",
+    "source_version": "usbrelay-1.2.1-12.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5458260,
+        "filename": "valkey-9.0.5-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/valkey-9.0.5-1.fc44.src.rpm",
+        "sha256": "0046758d93ac9403219f665891b84b505aa56d2b1d927ed6bf61d102d7f12c96"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "valkey",
+    "source_version": "valkey-9.0.5-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 5148229,
+        "filename": "varnish-8.0.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/varnish-8.0.2-1.fc44.src.rpm",
+        "sha256": "a05c0d29d8dcfa78ffe4c9c80119510163a504be2c13ba503e6ce2a2c934d48c"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "varnish",
+    "source_version": "varnish-8.0.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 69514280,
+        "filename": "vaultwarden-1.36.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/vaultwarden-1.36.0-1.fc44.src.rpm",
+        "sha256": "c8731058b57b7aae1227b95f04155f638218579998ab1897c68a6aaa291f3f18"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "vaultwarden",
+    "source_version": "vaultwarden-1.36.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1296163,
+        "filename": "vdr-2.8.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/vdr-2.8.1-1.fc44.src.rpm",
+        "sha256": "f5af6c14916c549401dcc7a4daf73f7059b9f30d7494404506f6172aa5abebc6"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "vdr",
+    "source_version": "vdr-2.8.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 368616,
+        "filename": "vnstat-2.13-2.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/vnstat-2.13-2.fc44.src.rpm",
+        "sha256": "de056069c175d6a38e3e72ce8839f5a3370d68d34a2cea967155c10c74a2ccfe"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "vnstat",
+    "source_version": "vnstat-2.13-2.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 535320,
+        "filename": "voms-2.1.3-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/voms-2.1.3-3.fc44.src.rpm",
+        "sha256": "a28cf1cd5405e2aa54e771b68aa475b5d51023f34dd9729517abcd505280e014"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "voms",
+    "source_version": "voms-2.1.3-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 370357,
+        "filename": "vsftpd-3.0.5-15.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/vsftpd-3.0.5-15.fc44.src.rpm",
+        "sha256": "c4dc2f209880fd38dbb8c0e2aa2574e4606b0b703a90c5fa3efc0ba43df4bc2a"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "vsftpd",
+    "source_version": "vsftpd-3.0.5-15.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 650649621,
+        "filename": "wesnoth-1.19.24-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/wesnoth-1.19.24-1.fc44.src.rpm",
+        "sha256": "0e2a6c3f50fa2d6c75c4f109ba75a887dcfd3678aba026017706175cb317943b"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "wesnoth",
+    "source_version": "wesnoth-1.19.24-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 130871,
+        "filename": "wireguard-tools-1.0.20260223-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/wireguard-tools-1.0.20260223-1.fc44.src.rpm",
+        "sha256": "146c5aa0865553611da0f8c30327ca819c746e0301fcc6716701033b28c98925"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "wireguard-tools",
+    "source_version": "wireguard-tools-1.0.20260223-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 3910382,
+        "filename": "wpa_supplicant-2.11-9.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/wpa_supplicant-2.11-9.fc44.src.rpm",
+        "sha256": "73e03b2fcaf71f3daf741448d243e9175733215d8f399ac98152be147df96b22"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "wpa_supplicant",
+    "source_version": "wpa_supplicant-2.11-9.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 57209,
+        "filename": "wsdd-0.8-6.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/wsdd-0.8-6.fc44.src.rpm",
+        "sha256": "e683fdc8d391f596786de37a67bd89f459338895de82b3f9e69ad078671fc546"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "wsdd",
+    "source_version": "wsdd-0.8-6.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 1637119,
+        "filename": "xfsprogs-7.1.1-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/xfsprogs-7.1.1-1.fc44.src.rpm",
+        "sha256": "858c45e990589796c2792e865385e53c0d793c4329d5a429fd1b69319dfc40b1"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "xfsprogs",
+    "source_version": "xfsprogs-7.1.1-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 12230988,
+        "filename": "xpra-6.5.2-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/xpra-6.5.2-1.fc44.src.rpm",
+        "sha256": "1d6001f4ee31ff4fb592dc8b5aceb5443ff2890112ad019d07860006c56adfbd"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "xpra",
+    "source_version": "xpra-6.5.2-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2548486,
+        "filename": "xrdp-0.10.6.1-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/xrdp-0.10.6.1-3.fc44.src.rpm",
+        "sha256": "f41ee7e76d04a283bd8c36b4fd06ea249179ef551f5f74eef8acb29449653da4"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "xrdp",
+    "source_version": "xrdp-0.10.6.1-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 7289337,
+        "filename": "xrootd-6.1.0-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/xrootd-6.1.0-1.fc44.src.rpm",
+        "sha256": "36dd43935795638aaace390674e776a652ee8981ff9cb8a5b08e9324c8d05b61"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "xrootd",
+    "source_version": "xrootd-6.1.0-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 2738499,
+        "filename": "yadifa-2.6.7-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/yadifa-2.6.7-5.fc44.src.rpm",
+        "sha256": "3f12b6520b3900b145bafd16b6548f26c4777c3df5059228d773eaf033ef6807"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "yadifa",
+    "source_version": "yadifa-2.6.7-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 43663654,
+        "filename": "zabbix-7.4.12-1.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/zabbix-7.4.12-1.fc44.src.rpm",
+        "sha256": "cad7934229432056f6591f12184ee8d393cf6fe3871946fef53fde8257b98942"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "zabbix",
+    "source_version": "zabbix-7.4.12-1.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 23082,
+        "filename": "zcfan-1.4.0-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/zcfan-1.4.0-5.fc44.src.rpm",
+        "sha256": "2fcbadcaf36b802d885e6396d3823e4cc469a3b2b4619fdb35ac7f9dc8310c16"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "zcfan",
+    "source_version": "zcfan-1.4.0-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 4459611,
+        "filename": "zram-generator-1.2.1-5.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/zram-generator-1.2.1-5.fc44.src.rpm",
+        "sha256": "21328d6894812c1e3a96543e125d22235f17211d0ef649c23702c030e4860e18"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "zram-generator",
+    "source_version": "zram-generator-1.2.1-5.fc44.src.rpm",
+    "status": "SUCCESS"
+  },
+  {
+    "detail": "",
+    "distribution": "fedora",
+    "files": [
+      {
+        "bytes": 974665,
+        "filename": "zvbi-0.2.44-3.fc44.src.rpm",
+        "path": "NOT_REDISTRIBUTED/zvbi-0.2.44-3.fc44.src.rpm",
+        "sha256": "094ea953db8d64b8996e3e9ef727b0c55cea1753bf5630869e79557d0772d529"
+      }
+    ],
+    "source_kind": "fedora_srpm",
+    "source_name": "zvbi",
+    "source_version": "zvbi-0.2.44-3.fc44.src.rpm",
+    "status": "SUCCESS"
+  }
+]

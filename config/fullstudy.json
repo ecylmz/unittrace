@@ -1,0 +1,16 @@
+{
+  "study_run_id": "unittrace-v4.2-full-census",
+  "authoritative_protocol_sha256": "1a728e40c8fdffaff25542f45fba727241487d7766e7710f84b6c60e78e9b136",
+  "eligible_population_size": 469,
+  "eligible_population_sha256": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "bootstrap_seed": 420260809,
+  "bootstrap_replicates": 5000,
+  "bootstrap_namespace": "unittrace:v4.2:full-census:project-bootstrap",
+  "rq3d_status": "RQ3d_DISABLED",
+  "grouped_assessment_families": [
+    "CapabilityBoundingSet",
+    "RestrictAddressFamilies",
+    "RestrictNamespaces",
+    "SystemCallFilter"
+  ]
+}

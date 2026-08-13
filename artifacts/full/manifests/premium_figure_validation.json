@@ -1,0 +1,252 @@
+{
+  "all_pass": true,
+  "canvas_background": "transparent",
+  "connector_audit": {
+    "arrows_drawn_before_nodes": true,
+    "behind_non_endpoint_nodes": 0,
+    "labels_masked_with_gap": true,
+    "orthogonal_or_axis_aligned": true,
+    "overlaps": 0,
+    "shared_attach_points": 0
+  },
+  "contrast_ratios": {
+    "accent_on_paper": 2.94,
+    "ink_on_paper": 12.13,
+    "muted_on_paper": 6.27
+  },
+  "design_system": "diagram-design 2.0: UnitTrace journal skin",
+  "figures": [
+    {
+      "hashes": {
+        "html": "067c0382d576f7bfe0ae3adfe7544071583a8b17204dacf7970bdf5a3252f1ce",
+        "pdf": "d6da91b66402dbd599c95c37aeed2be225964884be6e1133c20d9350c4cecfa5",
+        "png": "a722bf467f726cc1749f7cb329e4e071686a90821dc1bce1c9b959cce96b667d",
+        "svg": "7d8d487e827069fef0dea1d751ec7aad0595180b9a8c09b3fff66c4e0e746f54"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/adoption_heatmap.html",
+        "pdf": "artifacts/full/figures/adoption_heatmap.pdf",
+        "png": "artifacts/full/figures/adoption_heatmap.png",
+        "svg": "artifacts/full/figures/adoption_heatmap.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        1680,
+        962
+      ],
+      "stem": "adoption_heatmap",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 46,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "1e2bcc7a950970ca31eaddbf3a1696d3fe21c6bbc660f85732b9fcf2749f14d3",
+        "pdf": "0539895904dd54703056cfcf7249a783d32b1d97e3a47630a7348f622882d867",
+        "png": "2afd264ac5ed6509e3f391661cb2cfd618d22fd1783036e853e4813bb53aafc9",
+        "svg": "98f5b5c1f45bf210a4cef07faef18b30c1ca60cf5f7eadd6b864d5ce36325f2a"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/pairwise_divergence.html",
+        "pdf": "artifacts/full/figures/pairwise_divergence.pdf",
+        "png": "artifacts/full/figures/pairwise_divergence.png",
+        "svg": "artifacts/full/figures/pairwise_divergence.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        1781,
+        931
+      ],
+      "stem": "pairwise_divergence",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 20,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "2939d9eb2c7be9a837c9da362a33f484b82f36731cee7a6ff60cf8ffeaf8a1ab",
+        "pdf": "25386396866465699cd8e28a2797365f6a2677ff161f82db895fd7a79d5f75b5",
+        "png": "cd568fa1f1c6e982c7897c31663c1c045ef44c18bc81806d8ada8aff0b667838",
+        "svg": "54428f6e05ca587788833536ca976c47e99eb4f1f12b29bb9b112edf4798d7be"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/divergence_magnitude.html",
+        "pdf": "artifacts/full/figures/divergence_magnitude.pdf",
+        "png": "artifacts/full/figures/divergence_magnitude.png",
+        "svg": "artifacts/full/figures/divergence_magnitude.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        1792,
+        921
+      ],
+      "stem": "divergence_magnitude",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 31,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "8db638eef83a21f1427c8fda78b9463c88aa1442ae34fd3be600e75d8c59ee97",
+        "pdf": "fdd51e9e3dfb8a1a4e8f8a466a44c2c7bc0189b9a05b48dc606ee2ed514c0dd9",
+        "png": "e6b4677e984a9283eb77f084a80bca8ec3d2956e6ab48a504662f1bfb1b6a836",
+        "svg": "39d9677663c2965e95a453b0902603a113dea8c556ad87213e094cc6f2bce64b"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/upstream_package_transformations.html",
+        "pdf": "artifacts/full/figures/upstream_package_transformations.pdf",
+        "png": "artifacts/full/figures/upstream_package_transformations.png",
+        "svg": "artifacts/full/figures/upstream_package_transformations.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        2043,
+        947
+      ],
+      "stem": "upstream_package_transformations",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 40,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "2a8292d620cdd5938b81f4c43b8e97ad687660947bd6ef6bd2b17fd54229e7a1",
+        "pdf": "a8fc43aa48004fafacd5ac99961ef8545774e823ff326037836df1c75b634ee3",
+        "png": "6f062f070230a28de8ebf3a4377dbf1783b4095d78b9010f5314b90eda045c09",
+        "svg": "3aee48e1c7a93f96d152475200a59c13267b92aed2bcccbf0cb4e3606c63bab4"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/divergence_source.html",
+        "pdf": "artifacts/full/figures/divergence_source.pdf",
+        "png": "artifacts/full/figures/divergence_source.png",
+        "svg": "artifacts/full/figures/divergence_source.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        1792,
+        856
+      ],
+      "stem": "divergence_source",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 16,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "84a486d35a09492833e5ef52496a58bb7944e1260b02969ed8589c16a5e495a8",
+        "pdf": "2adb69b9fe202d0deeb4b6ceccdafc092137d423a887eb94ef770c221008cd7d",
+        "png": "d01986d71a610b93e56a9f1915c000745ab141ea294fd55e29e17fda24904129",
+        "svg": "8a72b196ae3d35ba548906532b6b5ae76cb35fdf949dd88945ffb525ff92e92a"
+      },
+      "html_inline_svg": true,
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/upe_provenance_flow.html",
+        "pdf": "artifacts/full/figures/upe_provenance_flow.pdf",
+        "png": "artifacts/full/figures/upe_provenance_flow.png",
+        "svg": "artifacts/full/figures/upe_provenance_flow.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        2090,
+        1231
+      ],
+      "stem": "upe_provenance_flow",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 27,
+      "text_overflow": []
+    },
+    {
+      "hashes": {
+        "html": "b4b6585f3b9d3cd2b8c1410d6df485847bf9e42646610cbff85b5e558c4f6558",
+        "pdf": "64699e874163e2c9a23db13e5fc16531873a67a5a6d091d11f0b080b847d5856",
+        "png": "723b4c204ad639462239e6cb5a25394b66337e574cbe67ca4c60ac5cbcc423a7",
+        "svg": "8b9637f197ee679ff86d68ac3fa26d7efb28891d12b53a279b787cc11e5901f9"
+      },
+      "html_inline_svg": true,
+      "node_text_audit": {
+        "node_text_elements_checked": 37,
+        "node_text_overflow": [],
+        "passed": true
+      },
+      "passed": true,
+      "paths": {
+        "html": "artifacts/full/figures/source/attrition_flow.html",
+        "pdf": "artifacts/full/figures/attrition_flow.pdf",
+        "png": "artifacts/full/figures/attrition_flow.png",
+        "svg": "artifacts/full/figures/attrition_flow.svg"
+      },
+      "pdf_header_valid": true,
+      "png_has_transparent_canvas": true,
+      "png_pixels": [
+        2090,
+        1427
+      ],
+      "stem": "attrition_flow",
+      "svg_has_diagonal_line_element": false,
+      "svg_has_shadow_filter": false,
+      "svg_has_viewbox": true,
+      "text_elements_checked": 40,
+      "text_overflow": []
+    }
+  ],
+  "tokens": {
+    "accent": "#eb6c36",
+    "ink": "#2d3142",
+    "link": "#5e7a9b",
+    "muted": "#4f5d75",
+    "paper": "#f8f8f8",
+    "rule_alpha": 0.08,
+    "soft": "#7a8399"
+  },
+  "visual_encoding_audit": {
+    "accent_usage": "categorical only: downstream-introduced segment in divergence-source figure",
+    "cross_family_pair_color": "#6f8294",
+    "derivative_family_color": "#b9bbc0",
+    "figure6_changed_totals": {
+      "Arch": 92,
+      "Debian": 53,
+      "Fedora": 89,
+      "Ubuntu": 68
+    },
+    "neutral_attrition_nodes": true,
+    "neutral_upe_nodes": true,
+    "unexplained_focal_outlines": 0,
+    "workflow_primary_cohorts": [
+      "C1X",
+      "C3X"
+    ],
+    "workflow_secondary_cohorts": [
+      "C2",
+      "C4"
+    ]
+  }
+}

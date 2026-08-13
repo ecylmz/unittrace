@@ -1,0 +1,12 @@
+{
+  "all_pass": true,
+  "gates": {
+    "Analysis Gate": true,
+    "Consistency Gate": true,
+    "Design Gate": true,
+    "Evidence Gate": true,
+    "Interpretation Gate": true,
+    "Presentation Gate": true,
+    "Reproducibility Gate": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "authoritative_protocol": "unittrace_article_spec_v4_1.md",
+  "protocol_sha256": "d2adffeab40b3c5048b841b16eb8cacceef0c98e9d384bfd50d9ccdd7664c0c5",
+  "frozen_interpretations": {
+    "c3_candidate": "a strict Tier-A C1 service lineage before U recovery",
+    "usable_dimension_resolved_u": "at least one assessment dimension has PRESENT_RESOLVED or ABSENT_RESOLVED U status",
+    "candidate_dimensions": "all assessment identifiers emitted by the pinned evaluator and archived in security_assessment_schema.json",
+    "pilot_project_identity": "normalized authoritative upstream URL from package metadata",
+    "pilot_order": "ascending SHA-256 of namespace, NUL, canonical_upstream_id",
+    "tier_a_ambiguity": "any competing candidate at the same or stronger mode rejects the mapping",
+    "repository_state": "downloaded signed/repository metadata bytes plus artifact identifiers and hashes; no later metadata refresh"
+  }
+}

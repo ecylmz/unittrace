@@ -1,0 +1,2 @@
+projects,comparable_union_lineages,differing_union_lineages,divergence_rate,ci_low,ci_high,pair_memberships,differing_pair_memberships,cohort,observational_unit,estimand
+373,645,164,0.25426356589147286,0.19240821655887486,0.3282057823129252,1457,312,C1X,deduplicated lineage,lineage differs on at least one comparable cross-family pair

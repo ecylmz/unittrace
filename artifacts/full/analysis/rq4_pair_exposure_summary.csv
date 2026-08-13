@@ -1,0 +1,7 @@
+pair,family_type,projects,lineages,median_left_minus_right_exposure,ci_low,ci_high,iqr_low,iqr_high,left_lower,equal,left_higher,cohort,construct
+Debian ↔ Fedora,CROSS_FAMILY,178,335,0.0,0.0,0.0,0.0,0.0,34,274,27,C1X,paired effective-state exposure difference under pinned systemd policy
+Debian ↔ Arch,CROSS_FAMILY,130,192,0.0,0.0,0.0,0.0,0.0,25,131,36,C1X,paired effective-state exposure difference under pinned systemd policy
+Ubuntu ↔ Fedora,CROSS_FAMILY,239,434,0.0,0.0,0.0,0.0,0.0,46,360,28,C1X,paired effective-state exposure difference under pinned systemd policy
+Ubuntu ↔ Arch,CROSS_FAMILY,152,238,0.0,0.0,0.0,0.0,0.0,28,181,29,C1X,paired effective-state exposure difference under pinned systemd policy
+Fedora ↔ Arch,CROSS_FAMILY,156,258,0.0,0.0,0.0,0.0,0.0,20,205,33,C1X,paired effective-state exposure difference under pinned systemd policy
+Debian ↔ Ubuntu,DERIVATIVE_FAMILY,256,459,0.0,0.0,0.0,0.0,0.0,5,440,14,C1D,paired effective-state exposure difference under pinned systemd policy

@@ -1,0 +1,7 @@
+pair,left_distribution,right_distribution,family_type,projects,tier_a_lineages,comparable,differing,divergence,c3_lineages,comparable_dimensions
+Debian ↔ Ubuntu,debian,ubuntu,DERIVATIVE_FAMILY,260,467,459,19,0.04139433551198257,282,37179
+Debian ↔ Fedora,debian,fedora,CROSS_FAMILY,178,335,335,61,0.18208955223880596,218,27135
+Debian ↔ Arch,debian,arch,CROSS_FAMILY,130,192,192,61,0.3177083333333333,120,15552
+Ubuntu ↔ Fedora,ubuntu,fedora,CROSS_FAMILY,244,443,434,78,0.17972350230414746,293,35154
+Ubuntu ↔ Arch,ubuntu,arch,CROSS_FAMILY,153,239,238,57,0.23949579831932774,154,19278
+Fedora ↔ Arch,fedora,arch,CROSS_FAMILY,156,258,258,55,0.2131782945736434,176,20898

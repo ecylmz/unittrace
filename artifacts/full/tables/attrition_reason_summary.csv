@@ -1,0 +1,10 @@
+stage,reason_code,count,entity_type,observational_unit
+artifact_fetch,ARTIFACT_FETCH_FAILURE,6,package,excluded entity
+cross_family_eligibility,NO_AUTHORITATIVE_UPSTREAM_URL,120,package,excluded entity
+semantic_evaluation,ANALYZER_FAILURE,26,policy_state,excluded entity
+tier_a_matching,DUPLICATE_ALIAS,348,service_unit,excluded entity
+tier_a_matching,MASKED_EFFECTIVE_UNIT,23,service_unit,excluded entity
+tier_a_matching,NO_TIER_A_PARTNER,1233,service_unit,excluded entity
+tier_a_matching,SERVICE_LINEAGE_AMBIGUOUS,252,service_lineage,excluded entity
+upstream_recovery,U4_NO_UPSTREAM_UNIT,383,upstream_artifact,excluded entity
+upstream_recovery,U5_AMBIGUOUS_OR_UNRESOLVED,369,upstream_artifact,excluded entity

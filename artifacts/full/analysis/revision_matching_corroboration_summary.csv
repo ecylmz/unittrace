@@ -1,0 +1,13 @@
+cohort,signal,corroborated_lineages,lineages,proportion,analysis_classification,primary_membership_changed
+C1,exact_cross_distribution_unit_content,501,713,0.7026647966339411,post-hoc construct-validation analysis,False
+C1,shared_upstream_artifact_hash,450,713,0.6311360448807855,post-hoc construct-validation analysis,False
+C1,execstart_target_package_owned_in_two_or_more_members,434,713,0.6086956521739131,post-hoc construct-validation analysis,False
+C1,shared_source_package_name,695,713,0.9747545582047685,post-hoc construct-validation analysis,False
+C1,any_strong_orthogonal_corroboration,622,713,0.8723702664796634,post-hoc construct-validation analysis,False
+C1,any_orthogonal_corroboration,707,713,0.9915848527349228,post-hoc construct-validation analysis,False
+C1X,exact_cross_distribution_unit_content,442,649,0.6810477657935285,post-hoc construct-validation analysis,False
+C1X,shared_upstream_artifact_hash,422,649,0.650231124807396,post-hoc construct-validation analysis,False
+C1X,execstart_target_package_owned_in_two_or_more_members,387,649,0.5963020030816641,post-hoc construct-validation analysis,False
+C1X,shared_source_package_name,631,649,0.9722650231124808,post-hoc construct-validation analysis,False
+C1X,any_strong_orthogonal_corroboration,558,649,0.8597842835130971,post-hoc construct-validation analysis,False
+C1X,any_orthogonal_corroboration,643,649,0.9907550077041603,post-hoc construct-validation analysis,False

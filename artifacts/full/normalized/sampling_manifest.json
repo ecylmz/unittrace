@@ -1,0 +1,43 @@
+{
+  "candidate_population": 469,
+  "census_not_sample": true,
+  "eligibility_metadata_fields": [
+    "canonical_upstream_id",
+    "distribution",
+    "name",
+    "source_name",
+    "source_version",
+    "unit_path"
+  ],
+  "eligibility_rule": "canonical upstream project has service-shipping package candidates in at least one preregistered cross-family distribution pair",
+  "eligible_population_sha256": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "forbidden_eligibility_fields": [
+    "assessment_id",
+    "analysis_status",
+    "description_normalized",
+    "dimension_provenance_status",
+    "divergence",
+    "exposure",
+    "normalized_state",
+    "semantic_category",
+    "transformation"
+  ],
+  "intended_pilot_size": 469,
+  "namespace": "unittrace:v4.2:phase0rx:cross-family",
+  "outcome_fields_used": [],
+  "outcome_inspected_before_selection": false,
+  "pair_coverage": {
+    "Debian ↔ Arch": 177,
+    "Debian ↔ Fedora": 235,
+    "Fedora ↔ Arch": 201,
+    "Ubuntu ↔ Arch": 212,
+    "Ubuntu ↔ Fedora": 315
+  },
+  "phase0_run_id": "unittrace-v4.2-full-census",
+  "population_below_intended_size": false,
+  "rq3d_status": "RQ3d_DISABLED",
+  "rule": "complete census of the frozen Phase 0R-X eligible-population manifest",
+  "selected_pilot_sha256": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "selected_projects": 469,
+  "selection_timestamp_utc": "2026-08-10T08:25:59.583438+00:00"
+}

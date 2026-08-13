@@ -1,0 +1,2 @@
+candidate_observations,validated_observations,unresolved_observations,fine_resolved,fine_exact,fine_agreement,grouped_resolved,grouped_exact,grouped_agreement,literal_assignments,literal_assignments_preserved,disagreeing_observations,analysis_classification,interpretation
+709,677,32,54582,54582,1.0,24117,24117,1.0,5576,5576,0,post-hoc construct-validation analysis,Packaged values render only template value placeholders; agreement is evaluated exclusively on dimensions the frozen projector marked resolved.

@@ -1,0 +1,6 @@
+distribution,changed,denominator,projects,change_rate,ci_low,ci_high,analysis_classification,observational_unit
+ALL,302,39357,237,0.007673349086566557,0.0046235917607958,0.011590313137507052,derived descriptive analysis with pre-specified clustered uncertainty,lineage-distribution assessment family
+debian,53,8595,145,0.006166375799883653,0.0029063129523261132,0.010725576729547642,derived descriptive analysis with pre-specified clustered uncertainty,lineage-distribution assessment family
+ubuntu,68,11271,187,0.006033182503770739,0.0031469846662789866,0.010013554373892185,derived descriptive analysis with pre-specified clustered uncertainty,lineage-distribution assessment family
+fedora,89,12459,203,0.007143430451882173,0.003298940304518613,0.012550999948506877,derived descriptive analysis with pre-specified clustered uncertainty,lineage-distribution assessment family
+arch,92,7032,116,0.013083048919226393,0.003233827597556772,0.026506494061351783,derived descriptive analysis with pre-specified clustered uncertainty,lineage-distribution assessment family

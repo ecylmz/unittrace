@@ -1,0 +1,6 @@
+contrast,cross_family_pair,cross_family_numerator,cross_family_denominator,derivative_numerator,derivative_denominator,absolute_percentage_point_difference,ci_low_percentage_points,ci_high_percentage_points,cluster_projects_union,analysis_classification,observational_unit
+Debian ↔ Fedora minus Debian ↔ Ubuntu,Debian ↔ Fedora,61,335,19,459,14.069521672682338,8.174525197124357,22.431996557827517,264,post-hoc exploratory/explanatory,pairwise lineage with upstream-project cluster
+Debian ↔ Arch minus Debian ↔ Ubuntu,Debian ↔ Arch,61,192,19,459,27.631399782135073,19.524087554873383,36.42532318204892,260,post-hoc exploratory/explanatory,pairwise lineage with upstream-project cluster
+Ubuntu ↔ Fedora minus Debian ↔ Ubuntu,Ubuntu ↔ Fedora,78,434,19,459,13.832916679216488,6.482227138737101,23.400044424383303,325,post-hoc exploratory/explanatory,pairwise lineage with upstream-project cluster
+Ubuntu ↔ Arch minus Debian ↔ Ubuntu,Ubuntu ↔ Arch,57,238,19,459,19.810146280734518,10.792001732902207,29.02327974560917,282,post-hoc exploratory/explanatory,pairwise lineage with upstream-project cluster
+Fedora ↔ Arch minus Debian ↔ Ubuntu,Fedora ↔ Arch,55,258,19,459,17.178395906166084,8.522233102918362,26.561324815839765,333,post-hoc exploratory/explanatory,pairwise lineage with upstream-project cluster

@@ -1,0 +1,329 @@
+{
+  "assessment_count": 81,
+  "assessments": [
+    {
+      "json_field": "AmbientCapabilities",
+      "name": "AmbientCapabilities="
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_AUDIT",
+      "name": "CapabilityBoundingSet=~CAP_AUDIT_*"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_BLOCK_SUSPEND",
+      "name": "CapabilityBoundingSet=~CAP_BLOCK_SUSPEND"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_BPF",
+      "name": "CapabilityBoundingSet=~CAP_BPF"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_CHOWN_FSETID_SETFCAP",
+      "name": "CapabilityBoundingSet=~CAP_(CHOWN|FSETID|SETFCAP)"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_DAC_FOWNER_IPC_OWNER",
+      "name": "CapabilityBoundingSet=~CAP_(DAC_*|FOWNER|IPC_OWNER)"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_IPC_LOCK",
+      "name": "CapabilityBoundingSet=~CAP_IPC_LOCK"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_KILL",
+      "name": "CapabilityBoundingSet=~CAP_KILL"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_LEASE",
+      "name": "CapabilityBoundingSet=~CAP_LEASE"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_LINUX_IMMUTABLE",
+      "name": "CapabilityBoundingSet=~CAP_LINUX_IMMUTABLE"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_MAC",
+      "name": "CapabilityBoundingSet=~CAP_MAC_*"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_MKNOD",
+      "name": "CapabilityBoundingSet=~CAP_MKNOD"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_NET_ADMIN",
+      "name": "CapabilityBoundingSet=~CAP_NET_ADMIN"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_NET_BIND_SERVICE_BROADCAST_RAW)",
+      "name": "CapabilityBoundingSet=~CAP_NET_(BIND_SERVICE|BROADCAST|RAW)"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SET_UID_GID_PCAP",
+      "name": "CapabilityBoundingSet=~CAP_SET(UID|GID|PCAP)"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYSLOG",
+      "name": "CapabilityBoundingSet=~CAP_SYSLOG"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_ADMIN",
+      "name": "CapabilityBoundingSet=~CAP_SYS_ADMIN"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_BOOT",
+      "name": "CapabilityBoundingSet=~CAP_SYS_BOOT"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_CHROOT",
+      "name": "CapabilityBoundingSet=~CAP_SYS_CHROOT"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_MODULE",
+      "name": "CapabilityBoundingSet=~CAP_SYS_MODULE"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_NICE_RESOURCE",
+      "name": "CapabilityBoundingSet=~CAP_SYS_(NICE|RESOURCE)"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_PACCT",
+      "name": "CapabilityBoundingSet=~CAP_SYS_PACCT"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_PTRACE",
+      "name": "CapabilityBoundingSet=~CAP_SYS_PTRACE"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_RAWIO",
+      "name": "CapabilityBoundingSet=~CAP_SYS_RAWIO"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_TIME",
+      "name": "CapabilityBoundingSet=~CAP_SYS_TIME"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_SYS_TTY_CONFIG",
+      "name": "CapabilityBoundingSet=~CAP_SYS_TTY_CONFIG"
+    },
+    {
+      "json_field": "CapabilityBoundingSet_CAP_WAKE_ALARM",
+      "name": "CapabilityBoundingSet=~CAP_WAKE_ALARM"
+    },
+    {
+      "json_field": "Delegate",
+      "name": "Delegate="
+    },
+    {
+      "json_field": "DeviceAllow",
+      "name": "DeviceAllow="
+    },
+    {
+      "json_field": "IPAddressDeny",
+      "name": "IPAddressDeny="
+    },
+    {
+      "json_field": "KeyringMode",
+      "name": "KeyringMode="
+    },
+    {
+      "json_field": "LockPersonality",
+      "name": "LockPersonality="
+    },
+    {
+      "json_field": "MemoryDenyWriteExecute",
+      "name": "MemoryDenyWriteExecute="
+    },
+    {
+      "json_field": "NoNewPrivileges",
+      "name": "NoNewPrivileges="
+    },
+    {
+      "json_field": "NotifyAccess",
+      "name": "NotifyAccess="
+    },
+    {
+      "json_field": "PrivateDevices",
+      "name": "PrivateDevices="
+    },
+    {
+      "json_field": "PrivateMounts",
+      "name": "PrivateMounts="
+    },
+    {
+      "json_field": "PrivateNetwork",
+      "name": "PrivateNetwork="
+    },
+    {
+      "json_field": "PrivateTmp",
+      "name": "PrivateTmp="
+    },
+    {
+      "json_field": "PrivateUsers",
+      "name": "PrivateUsers="
+    },
+    {
+      "json_field": "ProcSubset",
+      "name": "ProcSubset="
+    },
+    {
+      "json_field": "ProtectClock",
+      "name": "ProtectClock="
+    },
+    {
+      "json_field": "ProtectControlGroups",
+      "name": "ProtectControlGroups="
+    },
+    {
+      "json_field": "ProtectHome",
+      "name": "ProtectHome="
+    },
+    {
+      "json_field": "ProtectHostname",
+      "name": "ProtectHostname="
+    },
+    {
+      "json_field": "ProtectKernelLogs",
+      "name": "ProtectKernelLogs="
+    },
+    {
+      "json_field": "ProtectKernelModules",
+      "name": "ProtectKernelModules="
+    },
+    {
+      "json_field": "ProtectKernelTunables",
+      "name": "ProtectKernelTunables="
+    },
+    {
+      "json_field": "ProtectProc",
+      "name": "ProtectProc="
+    },
+    {
+      "json_field": "ProtectSystem",
+      "name": "ProtectSystem="
+    },
+    {
+      "json_field": "RemoveIPC",
+      "name": "RemoveIPC="
+    },
+    {
+      "json_field": "RestrictAddressFamilies_AF_INET_INET6",
+      "name": "RestrictAddressFamilies=~AF_(INET|INET6)"
+    },
+    {
+      "json_field": "RestrictAddressFamilies_AF_NETLINK",
+      "name": "RestrictAddressFamilies=~AF_NETLINK"
+    },
+    {
+      "json_field": "RestrictAddressFamilies_AF_PACKET",
+      "name": "RestrictAddressFamilies=~AF_PACKET"
+    },
+    {
+      "json_field": "RestrictAddressFamilies_AF_UNIX",
+      "name": "RestrictAddressFamilies=~AF_UNIX"
+    },
+    {
+      "json_field": "RestrictAddressFamilies_OTHER",
+      "name": "RestrictAddressFamilies=~…"
+    },
+    {
+      "json_field": "RestrictNamespaces_cgroup",
+      "name": "RestrictNamespaces=~cgroup"
+    },
+    {
+      "json_field": "RestrictNamespaces_ipc",
+      "name": "RestrictNamespaces=~ipc"
+    },
+    {
+      "json_field": "RestrictNamespaces_mnt",
+      "name": "RestrictNamespaces=~mnt"
+    },
+    {
+      "json_field": "RestrictNamespaces_net",
+      "name": "RestrictNamespaces=~net"
+    },
+    {
+      "json_field": "RestrictNamespaces_pid",
+      "name": "RestrictNamespaces=~pid"
+    },
+    {
+      "json_field": "RestrictNamespaces_user",
+      "name": "RestrictNamespaces=~user"
+    },
+    {
+      "json_field": "RestrictNamespaces_uts",
+      "name": "RestrictNamespaces=~uts"
+    },
+    {
+      "json_field": "RestrictRealtime",
+      "name": "RestrictRealtime="
+    },
+    {
+      "json_field": "RestrictSUIDSGID",
+      "name": "RestrictSUIDSGID="
+    },
+    {
+      "json_field": "RootDirectoryOrRootImage",
+      "name": "RootDirectory=/RootImage="
+    },
+    {
+      "json_field": "SupplementaryGroups",
+      "name": "SupplementaryGroups="
+    },
+    {
+      "json_field": "SystemCallArchitectures",
+      "name": "SystemCallArchitectures="
+    },
+    {
+      "json_field": "SystemCallFilter_clock",
+      "name": "SystemCallFilter=~@clock"
+    },
+    {
+      "json_field": "SystemCallFilter_cpu_emulation",
+      "name": "SystemCallFilter=~@cpu-emulation"
+    },
+    {
+      "json_field": "SystemCallFilter_debug",
+      "name": "SystemCallFilter=~@debug"
+    },
+    {
+      "json_field": "SystemCallFilter_module",
+      "name": "SystemCallFilter=~@module"
+    },
+    {
+      "json_field": "SystemCallFilter_mount",
+      "name": "SystemCallFilter=~@mount"
+    },
+    {
+      "json_field": "SystemCallFilter_obsolete",
+      "name": "SystemCallFilter=~@obsolete"
+    },
+    {
+      "json_field": "SystemCallFilter_privileged",
+      "name": "SystemCallFilter=~@privileged"
+    },
+    {
+      "json_field": "SystemCallFilter_raw_io",
+      "name": "SystemCallFilter=~@raw-io"
+    },
+    {
+      "json_field": "SystemCallFilter_reboot",
+      "name": "SystemCallFilter=~@reboot"
+    },
+    {
+      "json_field": "SystemCallFilter_resources",
+      "name": "SystemCallFilter=~@resources"
+    },
+    {
+      "json_field": "SystemCallFilter_swap",
+      "name": "SystemCallFilter=~@swap"
+    },
+    {
+      "json_field": "UMask",
+      "name": "UMask="
+    },
+    {
+      "json_field": "UserOrDynamicUser",
+      "name": "User=/DynamicUser="
+    }
+  ]
+}

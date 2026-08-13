@@ -1,0 +1,6 @@
+pair,family_type,projects,lineages,median_left_minus_right_transformed_share,ci_low,ci_high,iqr_low,iqr_high,cohort,observational_unit
+Debian ↔ Fedora,CROSS_FAMILY,120,213,0.0,0.0,0.0,0.0,0.0,C3X,lineage
+Debian ↔ Arch,CROSS_FAMILY,65,106,0.0,0.0,0.0,0.0,0.0,C3X,lineage
+Ubuntu ↔ Fedora,CROSS_FAMILY,155,278,0.0,0.0,0.0,0.0,0.0,C3X,lineage
+Ubuntu ↔ Arch,CROSS_FAMILY,78,138,0.0,0.0,0.0,0.0,0.0,C3X,lineage
+Fedora ↔ Arch,CROSS_FAMILY,86,158,0.0,0.0,0.0,0.0,0.0,C3X,lineage

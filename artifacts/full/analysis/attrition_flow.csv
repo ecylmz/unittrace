@@ -1,0 +1,8 @@
+stage,projects_or_packages,lineages_or_services,note
+frozen_service_shipping_packages,4200,0,939 Debian + 1548 Ubuntu + 1052 Fedora + 661 Arch packages
+cross_family_eligible_projects,469,0,frozen eligible population
+candidate_package_observations,1742,3537,packages and metadata service paths
+C1X_Tier_A,375,649,deduplicated cross-family union
+comparable_E,373,645,at least one comparable cross-family E pair
+C3X,237,418,dimension-resolved U provenance
+C3F,203,342,fully rendered upstream subset

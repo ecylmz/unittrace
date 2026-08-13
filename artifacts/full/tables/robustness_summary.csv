@@ -1,0 +1,55 @@
+analysis,pair,numerator,denominator,estimate,ci_low,ci_high,interpretation
+C2,Debian ↔ Fedora,25,113,0.22123893805309736,0.0975609756097561,0.37616934877425146,complete-four-way
+C2,Debian ↔ Arch,33,113,0.2920353982300885,0.15625,0.45303030303030245,complete-four-way
+C2,Ubuntu ↔ Fedora,15,113,0.13274336283185842,0.06428407601572739,0.2183997844827585,complete-four-way
+C2,Ubuntu ↔ Arch,23,113,0.20353982300884957,0.11363233397807866,0.31313131313131315,complete-four-way
+C2,Fedora ↔ Arch,19,113,0.168141592920354,0.08474250325945241,0.27835051546391754,complete-four-way
+C4,Debian ↔ Fedora,1,6,0.16666666666666666,0.0,0.5,same-upstream-version
+C4,Debian ↔ Arch,3,14,0.21428571428571427,0.0,0.5454545454545454,same-upstream-version
+C4,Ubuntu ↔ Fedora,2,7,0.2857142857142857,0.0,0.5714285714285714,same-upstream-version
+C4,Ubuntu ↔ Arch,3,16,0.1875,0.0,0.46153846153846156,same-upstream-version
+C4,Fedora ↔ Arch,2,7,0.2857142857142857,0.0,0.7142857142857143,same-upstream-version
+U1_PRIMARY,ALL_C3X,582,89573,0.006497493664385473,,,resolved U-to-P dimensions
+U1_ONLY_EXCLUDED,ALL_C3X,326,47534,0.006858248832414693,,,resolved U-to-P dimensions
+FULLY_RENDERED_C3F,ALL_C3X,507,76788,0.006602594155336771,,,U0/U3/fully-rendered-template dimensions
+U2_OBSERVATIONS_EXCLUDED,ALL_C3X,581,88512,0.0065640817064352855,,,resolved U-to-P dimensions excluding U2 observations
+DOWNSTREAM_CREATED_LINEAGES_EXCLUDED,ALL_C3X,582,89330,0.006515168476435688,,,resolved U-to-P dimensions excluding lineages with a U4 member
+ONE_OBSERVATION_PER_PROJECT,ALL_C3X,43,237,0.013528069845905474,,,mean project-level transformed-dimension share; numerator is projects with any transformation
+TIER_A_PLUS_C5,ALL_C1X,0,0,,,,C5 contained no accepted lower-tier lineages; primary estimate unchanged
+BUILTIN_POLICY,PINNED_POLICY,1,1,1.0,,,archived policy is empty override {}; built-in and fixed-policy fixture outputs byte-equivalent
+MATCHING_MODE,EXACT_UPSTREAM_UNIT_IDENTITY,340,1852,0.183585313174946,,,distribution-member observations
+MATCHING_MODE,PACKAGING_INSTALL_MAPPING,0,1852,0.0,,,distribution-member observations
+MATCHING_MODE,DETERMINISTIC_GENERATION_MAPPING,0,1852,0.0,,,distribution-member observations
+MATCHING_MODE,UNAMBIGUOUS_EXECUTABLE_LINEAGE,1512,1852,0.816414686825054,,,distribution-member observations
+EXCLUDE_CapabilityBoundingSet,Debian ↔ Fedora,59,335,0.1761194029850746,,,lineage has difference outside excluded family
+EXCLUDE_CapabilityBoundingSet,Debian ↔ Arch,58,192,0.3020833333333333,,,lineage has difference outside excluded family
+EXCLUDE_CapabilityBoundingSet,Ubuntu ↔ Fedora,75,434,0.1728110599078341,,,lineage has difference outside excluded family
+EXCLUDE_CapabilityBoundingSet,Ubuntu ↔ Arch,54,238,0.226890756302521,,,lineage has difference outside excluded family
+EXCLUDE_CapabilityBoundingSet,Fedora ↔ Arch,51,258,0.19767441860465115,,,lineage has difference outside excluded family
+EXCLUDE_CapabilityBoundingSet,Debian ↔ Ubuntu,17,459,0.037037037037037035,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Debian ↔ Fedora,60,335,0.1791044776119403,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Debian ↔ Arch,59,192,0.3072916666666667,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Ubuntu ↔ Fedora,78,434,0.17972350230414746,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Ubuntu ↔ Arch,56,238,0.23529411764705882,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Fedora ↔ Arch,54,258,0.20930232558139536,,,lineage has difference outside excluded family
+EXCLUDE_RestrictAddressFamilies,Debian ↔ Ubuntu,18,459,0.0392156862745098,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Debian ↔ Fedora,61,335,0.18208955223880596,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Debian ↔ Arch,61,192,0.3177083333333333,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Ubuntu ↔ Fedora,78,434,0.17972350230414746,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Ubuntu ↔ Arch,57,238,0.23949579831932774,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Fedora ↔ Arch,55,258,0.2131782945736434,,,lineage has difference outside excluded family
+EXCLUDE_RestrictNamespaces,Debian ↔ Ubuntu,18,459,0.0392156862745098,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Debian ↔ Fedora,60,335,0.1791044776119403,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Debian ↔ Arch,59,192,0.3072916666666667,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Ubuntu ↔ Fedora,77,434,0.1774193548387097,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Ubuntu ↔ Arch,55,238,0.23109243697478993,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Fedora ↔ Arch,55,258,0.2131782945736434,,,lineage has difference outside excluded family
+EXCLUDE_SystemCallFilter,Debian ↔ Ubuntu,18,459,0.0392156862745098,,,lineage has difference outside excluded family
+TOP_PROJECT_EXCLUDED,Debian ↔ Fedora,58,257,0.22568093385214008,,,excluded dominant project https://systemd.io
+TOP_PROJECT_EXCLUDED,Debian ↔ Arch,61,192,0.3177083333333333,,,excluded dominant project https://systemd.io
+TOP_PROJECT_EXCLUDED,Ubuntu ↔ Fedora,77,349,0.22063037249283668,,,excluded dominant project https://systemd.io
+TOP_PROJECT_EXCLUDED,Ubuntu ↔ Arch,57,238,0.23949579831932774,,,excluded dominant project https://systemd.io
+TOP_PROJECT_EXCLUDED,Fedora ↔ Arch,55,258,0.2131782945736434,,,excluded dominant project https://systemd.io
+TOP_PROJECT_EXCLUDED,Debian ↔ Ubuntu,17,381,0.04461942257217848,,,excluded dominant project https://systemd.io
+PROVENANCE_SELECTION,PROVENANCE_RESOLVED,16350,95985,0.1703391154867948,,,restrictive dimension-row prevalence; descriptive selection-bias check
+PROVENANCE_SELECTION,PROVENANCE_UNRESOLVED,10233,53217,0.19228817858954844,,,restrictive dimension-row prevalence; descriptive selection-bias check

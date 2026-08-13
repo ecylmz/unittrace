@@ -1,0 +1,6 @@
+distribution,projects,candidate_u_dimensions,resolved_u_dimensions,unresolved_u_dimensions,resolution_rate,ci_low,ci_high,cohort,observational_unit
+ALL,239,95742,90140,5602,0.9414885839025715,0.8853503443536211,0.9840592655831699,C1X,lineage-distribution assessment dimension
+arch,118,17496,16076,1420,0.9188385916780979,0.8417011951068267,0.9803860227310272,C1X,lineage-distribution assessment dimension
+debian,146,20898,19574,1324,0.9366446549909082,0.8712380901210688,0.9866995121280836,C1X,lineage-distribution assessment dimension
+fedora,205,29727,28298,1429,0.9519292225922562,0.9023307594029527,0.9883880980690661,C1X,lineage-distribution assessment dimension
+ubuntu,191,27621,26192,1429,0.9482640020274429,0.8964656031851641,0.9886133957917758,C1X,lineage-distribution assessment dimension

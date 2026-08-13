@@ -1,0 +1,16 @@
+{
+  "all_pass": true,
+  "checks": {
+    "all_469_terminal": true,
+    "c3f_subset_c3x": true,
+    "c3x_subset_c1x": true,
+    "matching_before_outcomes": true,
+    "no_derivative_only_leakage_c1x": true,
+    "no_u5_resolved": true,
+    "pair_union_deduplicated": true,
+    "policy_state_unique_keys": true,
+    "project_clustering_recorded": true,
+    "rq3d_disabled": true,
+    "unresolved_not_imputed": true
+  }
+}

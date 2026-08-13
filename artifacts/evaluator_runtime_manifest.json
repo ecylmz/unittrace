@@ -1,0 +1,48 @@
+{
+  "binary_sha256": "9b90a00e3c8d501054ddcb013ffbc7f44bc98e9c17a9f83211eccb9db1076bf7",
+  "bundle_sha256": "602fa125fec61f5174e57c5e8e46cdba0376d509e734356ef2fcf7f221f837ca",
+  "files": [
+    {
+      "path": "/lib64/ld-linux-x86-64.so.2",
+      "sha256": "c5e80a563850d6ab5c2f2482e4202d9c1b71fbf44854b8c399e63527202c64e1"
+    },
+    {
+      "path": "/usr/bin/systemd-analyze",
+      "sha256": "9b90a00e3c8d501054ddcb013ffbc7f44bc98e9c17a9f83211eccb9db1076bf7"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libc.so.6",
+      "sha256": "a3947513a02831ec692ebf13053c07614882ab54a2101fb91a1b15724062ed0c"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libcrypt.so.1",
+      "sha256": "212437df8afcd4004965550cb6df2d0eeb8cad736f7a13a89dcec455182429a6"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libcrypto.so.3",
+      "sha256": "0cd331307536a397ab9c83c6dbeeb3474d0a5114f397ce03d1762adb96d3c781"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libm.so.6",
+      "sha256": "beea4eeacfcfa2cd96011b959a826c97cf4a774017e214f6a34d7eea3d49cd88"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libz.so.1",
+      "sha256": "fbf56b0e59287033b6579bbbeae2f9de2fe86ad5bf2bd44d44aad67a15109318"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/libzstd.so.1",
+      "sha256": "060eeb79531d435306665fd78329d8a9dd579f95876c5960bb67937825362a80"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/systemd/libsystemd-core-259.so",
+      "sha256": "adc50e796ad76ef2c2643c797a25d48d4132387ef64a0e629e53d2111c4b0f1d"
+    },
+    {
+      "path": "/usr/lib/x86_64-linux-gnu/systemd/libsystemd-shared-259.so",
+      "sha256": "78685f66bfa9b6bc4e28d1364d024fc3c3aa7252d9e7ee46e78a7ff1863ccf8e"
+    }
+  ],
+  "ldd_output": "linux-vdso.so.1 (0x000077d301c29000)\n\tlibsystemd-core-259.so => /usr/lib/x86_64-linux-gnu/systemd/libsystemd-core-259.so (0x000077d301800000)\n\tlibsystemd-shared-259.so => /usr/lib/x86_64-linux-gnu/systemd/libsystemd-shared-259.so (0x000077d301200000)\n\tlibc.so.6 => /usr/lib/x86_64-linux-gnu/libc.so.6 (0x000077d300e00000)\n\tlibm.so.6 => /usr/lib/x86_64-linux-gnu/libm.so.6 (0x000077d301ab7000)\n\tlibcrypt.so.1 => /usr/lib/x86_64-linux-gnu/libcrypt.so.1 (0x000077d301a7a000)\n\tlibcrypto.so.3 => /usr/lib/x86_64-linux-gnu/libcrypto.so.3 (0x000077d300600000)\n\t/lib64/ld-linux-x86-64.so.2 (0x000077d301c2b000)\n\tlibz.so.1 => /usr/lib/x86_64-linux-gnu/libz.so.1 (0x000077d3017e2000)\n\tlibzstd.so.1 => /usr/lib/x86_64-linux-gnu/libzstd.so.1 (0x000077d30171f000)",
+  "version": "systemd 259 (259.5-0ubuntu3)"
+}

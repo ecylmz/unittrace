@@ -1,0 +1,63 @@
+{
+  "all_byte_equivalent": true,
+  "archived_policy_json": {},
+  "archived_policy_sha256": "c5c24f7ca1c946fa4dfd44407409c8e11ec6e41f0e1c7c45bf8381b42afb31f1",
+  "cases": [
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "9f1254193cd4c63029623d02f2d03765dadd30691c8177854883304b1ed79153",
+      "byte_equivalent": true,
+      "case": "fixture-reset",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "9f1254193cd4c63029623d02f2d03765dadd30691c8177854883304b1ed79153",
+      "unit": "fixture.service"
+    },
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "byte_equivalent": true,
+      "case": "fixture-effective",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "unit": "fixture.service"
+    },
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "5217c70399a6f3876cae4ed9cb6ff11d3032c608c87b3e30f684b7152b2e5f09",
+      "byte_equivalent": true,
+      "case": "fixture-dropin",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "5217c70399a6f3876cae4ed9cb6ff11d3032c608c87b3e30f684b7152b2e5f09",
+      "unit": "fixture.service"
+    },
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "byte_equivalent": true,
+      "case": "fixture-service-wide",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "unit": "fixture.service"
+    },
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "byte_equivalent": true,
+      "case": "fixture-alias",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "aafd3a72035b6587eebe8398a58667374641bce7c653fdd8267bede34dc07a61",
+      "unit": "canonical.service"
+    },
+    {
+      "builtin_returncode": 0,
+      "builtin_stdout_sha256": "552f5b5c78627d462381d7b141b5ed7e3807fcad4b17b113749e098b6010e58d",
+      "byte_equivalent": true,
+      "case": "frozen-vsftpd",
+      "fixed_returncode": 0,
+      "fixed_stdout_sha256": "552f5b5c78627d462381d7b141b5ed7e3807fcad4b17b113749e098b6010e58d",
+      "unit": "vsftpd.service"
+    }
+  ],
+  "evaluator_sha256": "9b90a00e3c8d501054ddcb013ffbc7f44bc98e9c17a9f83211eccb9db1076bf7",
+  "interpretation": "The archived policy is the empty JSON override; under the pinned evaluator it is byte-equivalent to the built-in policy on all semantic fixtures and a frozen census unit."
+}

@@ -1,0 +1,5 @@
+distribution,eligible_package_observations,candidate_service_paths,matched_lineage_members,ambiguous_candidate_members,matched_share_of_candidate_paths,observational_unit
+debian,394,808,474,104,0.5866336633663366,distribution-member service path
+ubuntu,514,1054,599,159,0.5683111954459203,distribution-member service path
+fedora,527,1044,556,123,0.5325670498084292,distribution-member service path
+arch,307,631,351,81,0.5562599049128367,distribution-member service path

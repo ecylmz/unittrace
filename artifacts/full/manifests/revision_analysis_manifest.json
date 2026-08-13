@@ -1,0 +1,39 @@
+{
+  "analysis_classification": {
+    "derivative_contrasts": "post-hoc exploratory/explanatory",
+    "deterministic_examples": "post-hoc explanatory examples selected by fixed automatic rules",
+    "divergence_magnitude": "derived descriptive analysis; lineage magnitude was pre-specified in v4.2, revised bins are descriptive",
+    "divergence_source_attribution": "post-hoc exploratory/explanatory",
+    "matching_construct_validity_sensitivity": "post-hoc matching-construct-validity sensitivity analysis",
+    "matching_corroboration": "post-hoc construct-validation analysis",
+    "rq3_family_profile": "derived descriptive analysis of pre-specified RQ3 dimension frequencies",
+    "u1_projector_validation": "post-hoc construct-validation analysis"
+  },
+  "bootstrap_replicates": 5000,
+  "bootstrap_seed": 420260809,
+  "byte_equivalent_repeated_write": true,
+  "frozen_normalized_input_sha256": "22899fed17d7d81faf6429aea06083894992355cc12c33cba18198ab0bde4c34",
+  "output_hashes": {
+    "matching_construct_validity_rq2_overall.csv": "ee4c0bd56bc63ce1799112e171b5df2c113b1c92060b88fd0692268d1a7ac4b2",
+    "matching_construct_validity_rq2_pairwise.csv": "384bee86995f9677337bef451e7533314502b24f94a9e98792dbb8692e8bbb01",
+    "matching_construct_validity_rq3.csv": "868e1b90b209e5b5357cc90009b61938f1692b2496ce458d9d61dbe365dfcab0",
+    "revision_derivative_contrasts.csv": "5b0eef4f3aacb43ca67f917101fe59f36adff02ecc5de62e0ff838bc067fb97e",
+    "revision_deterministic_examples.csv": "677874def46569ba653362db4081ed1887faac537d3735b3ad67a2adda120503",
+    "revision_divergence_magnitude_lineages.csv": "b4fa94b8220466bce101cab57b5143de34b045b04487825c02c66e26ae55066f",
+    "revision_divergence_magnitude_summary.csv": "d2785b73a273584f968ba89231f47ac30ea368b8d3c07bbe75cf7c8fd8aa7558",
+    "revision_divergence_source_effective_differences.csv": "0436395c037a924d9c11002a5995c433f37f265824356a63e8f1093afb2ea838",
+    "revision_divergence_source_lineages.csv": "c6d9ef1c53f68906a11ba300b4d07e0eeef0a3a491f240d309b5de6c7bf85c05",
+    "revision_divergence_source_observations.csv": "239f7612cf31e11ffec0fc62f675199978041df7adfa16c716569c2036ca58ed",
+    "revision_divergence_source_resolved_effective_differences.csv": "012544371d3b6a5e05b78b8c81e726b81f27045f1f9ea09e774bc01137f2d2e0",
+    "revision_divergence_source_summary.csv": "c2037ba96ee065b2127cc2cf72fc7bbdb7a459f666a24b93e43d5d907e61e1f4",
+    "revision_matching_corroboration.csv": "54d149d2fc980c95520785002782ade7a2b6658c9e30a733801d0d136f14e72c",
+    "revision_matching_corroboration_summary.csv": "c4dad5108dacfde815a78c4fb8b7e5cd1ea2256188b84dbf4a9a3b948ced8df5",
+    "revision_rq3_family_transformations.csv": "2023037ebfe5dc663bef4ba4122fbfd4c573df6135f39874f29e502079c9ad74",
+    "revision_rq3_grouped_change_rates.csv": "f897f082e8bd03063576d12a3a7c70cfaaf3a734dfdcb72fdeceef9d2317a649",
+    "revision_u1_projector_validation.csv": "d2cbf2e43dca7d53781ac091977f8d2749cf560b1b9e50b0c34d8d7edf928cea",
+    "revision_u1_projector_validation_summary.csv": "4f0a1693b12ec6f7ba86a79ace625034ba6eee40872ceb03ffb4edbc1bbb1276"
+  },
+  "premium_figure_validation": "artifacts/full/manifests/premium_figure_validation.json",
+  "premium_figure_validation_pass": true,
+  "rq3d_status": "RQ3d_DISABLED"
+}

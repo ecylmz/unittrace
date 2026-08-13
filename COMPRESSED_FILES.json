@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "compressed_bytes": 5811464,
+      "compressed_path": "artifacts/full/normalized/policy_states.csv.gz",
+      "compressed_sha256": "dcf3e147232da8c11676bc93a1e95f37685527453d552302dccd9d281ae1a177",
+      "original_bytes": 167564145,
+      "original_path": "artifacts/full/normalized/policy_states.csv",
+      "original_sha256": "b93ad2c17bd31faf65d49c6f5aa577a2898fae3b410dd81b5392bc8a1748158c"
+    },
+    {
+      "compressed_bytes": 1973985,
+      "compressed_path": "artifacts/full/normalized/transformations.csv.gz",
+      "compressed_sha256": "59f9ddc9e80d88f785ec230caef30ce80fa5fe8b227b2dbdd86d2d300ccc9d2e",
+      "original_bytes": 55022270,
+      "original_path": "artifacts/full/normalized/transformations.csv",
+      "original_sha256": "ca00ea022463f76020c29af54f0510d9b8c1fee31017efcb2967f2ab3249953f"
+    }
+  ]
+}

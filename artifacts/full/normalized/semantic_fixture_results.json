@@ -1,0 +1,36 @@
+{
+  "aliases": {
+    "alias_detail": "",
+    "alias_status": "ANALYZABLE",
+    "canonical_detail": "",
+    "canonical_status": "ANALYZABLE",
+    "pass": true
+  },
+  "all_pass": true,
+  "directive_reset_semantics": {
+    "detail": "",
+    "pass": true,
+    "status": "ANALYZABLE"
+  },
+  "drop_in_precedence": {
+    "detail": "",
+    "pass": true,
+    "status": "ANALYZABLE"
+  },
+  "effective_configuration_resolution": {
+    "detail": "",
+    "pass": true,
+    "status": "ANALYZABLE"
+  },
+  "masked_units": {
+    "detail": "Unit masked.service is masked.",
+    "deterministic_classification": "MASKED_EFFECTIVE_UNIT",
+    "pass": true,
+    "status": "ANALYZER_FAILURE"
+  },
+  "service_wide_dropins": {
+    "detail": "",
+    "pass": true,
+    "status": "ANALYZABLE"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "authoritative_protocol": "unittrace_article_spec_v4_2.md",
+  "authoritative_protocol_sha256": "1a728e40c8fdffaff25542f45fba727241487d7766e7710f84b6c60e78e9b136",
+  "bootstrap_namespace": "unittrace:v4.2:full-census:project-bootstrap",
+  "bootstrap_seed": 420260809,
+  "census_not_sample": true,
+  "created_utc": "2026-08-10T08:25:59.583438+00:00",
+  "eligible_population_sha256": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "eligible_projects": 469,
+  "package_observations": 1742,
+  "phase0x_eligible_population_sha256": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "population_match": true,
+  "repositories_refrozen": false,
+  "rq3d_status": "RQ3d_DISABLED",
+  "study_run_id": "unittrace-v4.2-full-census"
+}

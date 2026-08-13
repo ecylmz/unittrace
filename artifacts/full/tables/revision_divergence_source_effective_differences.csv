@@ -1,0 +1,21 @@
+pair,source_category,numerator,denominator,projects,proportion,ci_low,ci_high,analysis_classification,observational_unit
+Debian ↔ Fedora,UPSTREAM_DIFFERENCE_INHERITED,60,365,45,0.1643835616438356,0.030136070005039633,0.3426858674814281,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Fedora,DOWNSTREAM_INTRODUCED,35,365,45,0.0958904109589041,0.03823280159521436,0.18930163344407508,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Fedora,DOWNSTREAM_AMPLIFIED_OR_MODIFIED,0,365,45,0.0,0.0,0.0,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Fedora,UNRESOLVED,270,365,45,0.7397260273972602,0.5515093240093241,0.8860520011977242,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Arch,UPSTREAM_DIFFERENCE_INHERITED,28,438,47,0.0639269406392694,0.010615711252653927,0.14480969450659845,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Arch,DOWNSTREAM_INTRODUCED,14,438,47,0.0319634703196347,0.001976284584980237,0.09350661742837316,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Arch,DOWNSTREAM_AMPLIFIED_OR_MODIFIED,0,438,47,0.0,0.0,0.0,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Debian ↔ Arch,UNRESOLVED,396,438,47,0.9041095890410958,0.7999877750611247,0.9741187110503116,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Fedora,UPSTREAM_DIFFERENCE_INHERITED,69,486,66,0.1419753086419753,0.030119784694332886,0.2823032521098048,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Fedora,DOWNSTREAM_INTRODUCED,46,486,66,0.09465020576131687,0.04333318890814558,0.1689822965571205,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Fedora,DOWNSTREAM_AMPLIFIED_OR_MODIFIED,0,486,66,0.0,0.0,0.0,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Fedora,UNRESOLVED,371,486,66,0.7633744855967078,0.6003995901639344,0.8854986091344288,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Arch,UPSTREAM_DIFFERENCE_INHERITED,25,480,50,0.052083333333333336,0.00516795865633075,0.12686567164179105,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Arch,DOWNSTREAM_INTRODUCED,14,480,50,0.029166666666666667,0.0018248175182481751,0.08695894798136643,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Arch,DOWNSTREAM_AMPLIFIED_OR_MODIFIED,0,480,50,0.0,0.0,0.0,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Ubuntu ↔ Arch,UNRESOLVED,441,480,50,0.91875,0.8299375018338664,0.9814573756227524,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Fedora ↔ Arch,UPSTREAM_DIFFERENCE_INHERITED,40,391,48,0.10230179028132992,0.008925945378151261,0.2215986867959129,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Fedora ↔ Arch,DOWNSTREAM_INTRODUCED,106,391,48,0.2710997442455243,0.10074642832829231,0.45763306989144914,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Fedora ↔ Arch,DOWNSTREAM_AMPLIFIED_OR_MODIFIED,0,391,48,0.0,0.0,0.0,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family
+Fedora ↔ Arch,UNRESOLVED,245,391,48,0.6265984654731458,0.4349757151907382,0.8136149754500818,post-hoc exploratory/explanatory,E-differing cross-family lineage-assessment-family

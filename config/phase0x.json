@@ -1,0 +1,43 @@
+{
+  "phase0_run_id": "phase0rx-2026-08-09-v4.2",
+  "data_freeze_timestamp": "2026-08-09T00:00:00Z",
+  "architecture": "x86_64",
+  "pilot_size": 60,
+  "selection_namespace": "unittrace:v4.2:phase0rx:cross-family",
+  "authoritative_protocol": "unittrace_article_spec_v4_2.md",
+  "authoritative_protocol_sha256": "1a728e40c8fdffaff25542f45fba727241487d7766e7710f84b6c60e78e9b136",
+  "historical_phase0_report_sha256": "6b80ff64afc0ceeedb0699df9989d2c207ff5a2e6e2ba5a8e930ee032961ec41",
+  "historical_phase0_audit_report_sha256": "facc7dac96a6b8bb8151b5258693b92636ccc185c9421301005911782efc0420",
+  "historical_config": "config/phase0r.json",
+  "rq3d_status": "RQ3d_DISABLED",
+  "eligibility_metadata_fields": [
+    "canonical_upstream_id",
+    "distribution",
+    "name",
+    "source_name",
+    "source_version",
+    "unit_path"
+  ],
+  "forbidden_eligibility_fields": [
+    "assessment_id",
+    "analysis_status",
+    "description_normalized",
+    "dimension_provenance_status",
+    "divergence",
+    "exposure",
+    "normalized_state",
+    "semantic_category",
+    "transformation"
+  ],
+  "thresholds": {
+    "artifact_rate": 0.95,
+    "analyzable_rate": 0.90,
+    "cross_family_projects": 30,
+    "cross_family_tier_a_lineages": 40,
+    "c3x_projects": 30,
+    "provenance_retention": 0.50,
+    "differing_lineages": 25,
+    "divergence_rate": 0.10,
+    "transformed_lineages": 25
+  }
+}

@@ -1,0 +1,11 @@
+gate,metric,numerator,denominator,value,threshold,status
+P0R-A-X,pilot_artifact_reproducibility,1739,1742,0.9982778415614236,>=0.95 and 4/4 frozen adapters,PASS
+P0R-B-X,analyzable_or_classified_states,3936,3960,0.9939393939393939,>=0.90 and 6/6 fixtures,PASS
+P0R-CX,cross_family_projects,375,469,375,>=30,PASS
+P0R-CX,cross_family_tier_a_lineages,649,713,649,>=40,PASS
+P0R-D-X,complete_four_way_support_descriptive,73,113,73,none (non-blocking),DESCRIPTIVE
+P0R-EX,c3x_projects,237,375,237,>=30,PASS
+P0R-EX,usable_cross_family_provenance_lineages,418,649,0.6440677966101694,>=0.50,PASS
+P0R-FX,differing_cross_family_lineages,164,645,164,>=25,PASS
+P0R-FX,cross_family_divergence_rate,164,645,0.25426356589147286,>=0.10,PASS
+P0R-FX,cross_family_u_p_transformed_lineages,46,418,46,>=25,PASS

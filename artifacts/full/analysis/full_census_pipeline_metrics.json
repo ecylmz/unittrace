@@ -1,0 +1,645 @@
+{
+  "analyzable_rate": 0.9939393939393939,
+  "artifact_rate": 0.9982778415614236,
+  "artifacts_ok": 1739,
+  "artifacts_total": 1742,
+  "c3_lineages": 447,
+  "c3_projects": 251,
+  "c3x_lineages": 418,
+  "c3x_projects": 237,
+  "c3x_projects_exclusively_dependent_on_U1": 153,
+  "c3x_projects_if_U1_only_projects_excluded": 84,
+  "candidate_dimensions": 150012,
+  "cross_family_c3_candidate_lineages": 649,
+  "cross_family_comparable_lineages": 645,
+  "cross_family_differing_lineages": 164,
+  "cross_family_divergence_rate": 0.25426356589147286,
+  "cross_family_eligible_population": 469,
+  "cross_family_projects": 375,
+  "cross_family_tier_a_lineages": 649,
+  "cross_family_transformed_u_p_lineages": 46,
+  "decision_before_determinism": "CONFIRMED_GO",
+  "determinism_pass": true,
+  "eligible_projects_terminal": 469,
+  "fixtures_pass": true,
+  "fixtures_passed": 6,
+  "fixtures_total": 6,
+  "four_way_lineages": 113,
+  "four_way_projects": 73,
+  "gate_statuses": {
+    "P0R-A-X": "PASS",
+    "P0R-B-X": "PASS",
+    "P0R-CX": "PASS",
+    "P0R-D-X": "DESCRIPTIVE",
+    "P0R-EX": "PASS",
+    "P0R-FX": "PASS"
+  },
+  "input_manifest_hash": "acab58fd2d48c5ea93988730058145d953e66d988091efdcb16c70e9bba126f9",
+  "matching_modes": [
+    {
+      "cohort": "WHOLE_PILOT",
+      "lineages": 137,
+      "match_mode": "EXACT_UPSTREAM_UNIT_IDENTITY",
+      "percentage": 0.19214586255259467,
+      "projects": 57
+    },
+    {
+      "cohort": "WHOLE_PILOT",
+      "lineages": 0,
+      "match_mode": "PACKAGING_INSTALL_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "WHOLE_PILOT",
+      "lineages": 0,
+      "match_mode": "DETERMINISTIC_GENERATION_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "WHOLE_PILOT",
+      "lineages": 576,
+      "match_mode": "UNAMBIGUOUS_EXECUTABLE_LINEAGE",
+      "percentage": 0.8078541374474053,
+      "projects": 364
+    },
+    {
+      "cohort": "C1X",
+      "lineages": 130,
+      "match_mode": "EXACT_UPSTREAM_UNIT_IDENTITY",
+      "percentage": 0.20030816640986132,
+      "projects": 53
+    },
+    {
+      "cohort": "C1X",
+      "lineages": 0,
+      "match_mode": "PACKAGING_INSTALL_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "C1X",
+      "lineages": 0,
+      "match_mode": "DETERMINISTIC_GENERATION_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "C1X",
+      "lineages": 519,
+      "match_mode": "UNAMBIGUOUS_EXECUTABLE_LINEAGE",
+      "percentage": 0.7996918335901386,
+      "projects": 338
+    },
+    {
+      "cohort": "C3X",
+      "lineages": 122,
+      "match_mode": "EXACT_UPSTREAM_UNIT_IDENTITY",
+      "percentage": 0.291866028708134,
+      "projects": 51
+    },
+    {
+      "cohort": "C3X",
+      "lineages": 0,
+      "match_mode": "PACKAGING_INSTALL_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "C3X",
+      "lineages": 0,
+      "match_mode": "DETERMINISTIC_GENERATION_MAPPING",
+      "percentage": 0.0,
+      "projects": 0
+    },
+    {
+      "cohort": "C3X",
+      "lineages": 296,
+      "match_mode": "UNAMBIGUOUS_EXECUTABLE_LINEAGE",
+      "percentage": 0.7081339712918661,
+      "projects": 200
+    }
+  ],
+  "normalized_output_hash": "22899fed17d7d81faf6429aea06083894992355cc12c33cba18198ab0bde4c34",
+  "per_dimension_retention": [
+    {
+      "assessment_id": "AmbientCapabilities",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_AUDIT",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_BLOCK_SUSPEND",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_BPF",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_CHOWN_FSETID_SETFCAP",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_DAC_FOWNER_IPC_OWNER",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_IPC_LOCK",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_KILL",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_LEASE",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_LINUX_IMMUTABLE",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_MAC",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_MKNOD",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_NET_ADMIN",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_NET_BIND_SERVICE_BROADCAST_RAW)",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SET_UID_GID_PCAP",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYSLOG",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_ADMIN",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_BOOT",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_CHROOT",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_MODULE",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_NICE_RESOURCE",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_PACCT",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_PTRACE",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_RAWIO",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_TIME",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_SYS_TTY_CONFIG",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "CapabilityBoundingSet_CAP_WAKE_ALARM",
+      "candidate_observations": 1852,
+      "resolved_observations": 1135,
+      "retention": 0.6128509719222462
+    },
+    {
+      "assessment_id": "Delegate",
+      "candidate_observations": 1852,
+      "resolved_observations": 1106,
+      "retention": 0.5971922246220303
+    },
+    {
+      "assessment_id": "DeviceAllow",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "IPAddressDeny",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "KeyringMode",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "LockPersonality",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "MemoryDenyWriteExecute",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "NoNewPrivileges",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "NotifyAccess",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "PrivateDevices",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "PrivateMounts",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "PrivateNetwork",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "PrivateTmp",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "PrivateUsers",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "ProcSubset",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "ProtectClock",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "ProtectControlGroups",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectHome",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectHostname",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectKernelLogs",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectKernelModules",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectKernelTunables",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "ProtectProc",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "ProtectSystem",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RemoveIPC",
+      "candidate_observations": 1852,
+      "resolved_observations": 1015,
+      "retention": 0.5480561555075594
+    },
+    {
+      "assessment_id": "RestrictAddressFamilies_AF_INET_INET6",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictAddressFamilies_AF_NETLINK",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictAddressFamilies_AF_PACKET",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictAddressFamilies_AF_UNIX",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictAddressFamilies_OTHER",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictNamespaces_cgroup",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_ipc",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_mnt",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_net",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_pid",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_user",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictNamespaces_uts",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RestrictRealtime",
+      "candidate_observations": 1852,
+      "resolved_observations": 1111,
+      "retention": 0.5998920086393088
+    },
+    {
+      "assessment_id": "RestrictSUIDSGID",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "RootDirectoryOrRootImage",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "SupplementaryGroups",
+      "candidate_observations": 1852,
+      "resolved_observations": 1015,
+      "retention": 0.5480561555075594
+    },
+    {
+      "assessment_id": "SystemCallArchitectures",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_clock",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_cpu_emulation",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_debug",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_module",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_mount",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_obsolete",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_privileged",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_raw_io",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_reboot",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_resources",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "SystemCallFilter_swap",
+      "candidate_observations": 1852,
+      "resolved_observations": 1107,
+      "retention": 0.597732181425486
+    },
+    {
+      "assessment_id": "UMask",
+      "candidate_observations": 1852,
+      "resolved_observations": 1103,
+      "retention": 0.5955723542116631
+    },
+    {
+      "assessment_id": "UserOrDynamicUser",
+      "candidate_observations": 1852,
+      "resolved_observations": 1021,
+      "retention": 0.5512958963282938
+    }
+  ],
+  "provenance_retention": 0.6440677966101694,
+  "repository_integrity": true,
+  "resolved_candidate_dimensions": 90140,
+  "rq3d_status": "RQ3d_DISABLED",
+  "selected_pilot_hash": "0c8c8f8d5e6963bb51c82ff3ff7d1c11cf031b2afd59287b3a155a2f8a37044d",
+  "selected_pilot_size": 469,
+  "states_analyzable": 3936,
+  "states_total": 3960,
+  "tier_a_blocking_violation": false,
+  "tier_a_lineages": 713,
+  "tier_a_lineages_audited": 713,
+  "tier_a_lineages_passing": 713,
+  "tier_a_projects": 403,
+  "tier_a_violation_types": {},
+  "u_counts": {
+    "U0_STATIC": 394,
+    "U1_TEMPLATE_VALUE_ONLY": 709,
+    "U2_TEMPLATE_STRUCTURAL": 53,
+    "U3_GENERATED_DETERMINISTIC": 0,
+    "U4_NO_UPSTREAM_STATIC_OR_TEMPLATE_UNIT": 4,
+    "U5_AMBIGUOUS_OR_UNRESOLVED": 34
+  },
+  "u_observations_in_c3x": 1194,
+  "u_rates": {
+    "U0_STATIC": 0.32998324958123953,
+    "U1_TEMPLATE_VALUE_ONLY": 0.5938023450586265,
+    "U2_TEMPLATE_STRUCTURAL": 0.04438860971524288,
+    "U3_GENERATED_DETERMINISTIC": 0.0,
+    "U4_NO_UPSTREAM_STATIC_OR_TEMPLATE_UNIT": 0.0033500837520938024,
+    "U5_AMBIGUOUS_OR_UNRESOLVED": 0.02847571189279732
+  },
+  "usable_cross_family_provenance_lineages": 418
+}

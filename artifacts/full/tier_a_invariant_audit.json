@@ -1,0 +1,30 @@
+{
+  "blocking_violation": false,
+  "code_checks": {
+    "ambiguous_and_matched_sets_disjoint": true,
+    "deterministic_group_iteration": true,
+    "executable_normalization_is_exact_basename": true,
+    "executable_normalization_rejects_substitutions": true,
+    "matching_has_no_policy_input": true,
+    "matching_precedes_outcome_analysis": true,
+    "no_basename_grouping": true,
+    "no_fuzzy_matching": true,
+    "no_manual_override_table": true,
+    "orders_exact_before_executable": true,
+    "phase0x_matching_consumes_no_policy_outcomes": true,
+    "phase0x_matching_precedes_policy_analysis": true,
+    "phase0x_selection_precedes_policy_analysis": true,
+    "rejects_per_distribution_many_to_many": true,
+    "requires_multiple_distributions": true
+  },
+  "code_violation_types": [],
+  "executable_normalization_sha256": "bb1b3c75e2abfa688908b8e82a8e14ed03b3cb1bc58efc7acaf99ce63dabcd60",
+  "lineages_audited": 713,
+  "lineages_passing_invariants": 713,
+  "lineages_violating_invariants": 0,
+  "matching_implementation_sha256": "4bdd31f8e3360d93f5c4e9a590aecbe036aabbf22d6839a065cc944b7a45f144",
+  "member_observations_audited": 1980,
+  "orchestration_sha256": "e45ebb2a8f61df93366c2bbb676bc4a095463a8154aac7bdb31cbcd447bf57e1",
+  "violation_type_counts": {},
+  "violations": []
+}
